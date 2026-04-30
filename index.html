@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Orbitron:wght@700&display=swap');
         body { background-color: #05070a; color: #f1f5f9; font-family: 'Inter', sans-serif; }
         .glass { background: rgba(15, 23, 42, 0.9); backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.08); }
         .live-dot { animation: pulse 1.5s infinite; }
@@ -16,6 +16,7 @@
         .player-box { width: 98%; max-width: 1100px; aspect-ratio: 16/9; box-shadow: 0 0 50px rgba(59, 130, 246, 0.2); }
         .custom-scrollbar::-webkit-scrollbar { width: 5px; }
         .custom-scrollbar::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 10px; }
+        .logo-font { font-family: 'Orbitron', sans-serif; }
     </style>
 </head>
 <body class="pb-10 custom-scrollbar">
@@ -23,7 +24,7 @@
     <!-- Navbar -->
     <nav class="glass sticky top-0 z-50 border-b border-slate-800 px-6 py-4">
         <div class="max-w-7xl mx-auto flex justify-between items-center">
-            <div class="text-2xl font-black italic text-blue-500 tracking-tighter uppercase">Channel<span class="text-white">1</span></div>
+            <div class="text-2xl font-black italic text-blue-500 tracking-tighter uppercase logo-font">Channel<span class="text-white">1</span></div>
             <div class="flex items-center gap-4">
                 <div id="update-time" class="text-[9px] text-slate-500 font-mono tracking-widest uppercase hidden md:block"></div>
                 <button onclick="fetchMatches()" class="text-slate-400 hover:text-white transition"><i class="fas fa-sync-alt text-sm"></i></button>
@@ -32,7 +33,7 @@
     </nav>
 
     <div class="max-w-7xl mx-auto px-4 mt-8">
-        <!-- Featured Section (Slider style grid) -->
+        <!-- Featured Section -->
         <div id="featured-section" style="display:none;">
             <h2 class="text-lg font-black mb-6 text-blue-500 flex items-center tracking-widest uppercase">
                 <span class="h-2 w-8 bg-blue-600 mr-3 rounded-full"></span> Top Fixtures
@@ -45,11 +46,11 @@
             <span class="h-2 w-8 bg-slate-700 mr-3 rounded-full"></span> Live Schedule
         </h2>
         <div id="matches-list" class="space-y-3">
-            <div class="text-center py-20 text-slate-600 animate-pulse uppercase tracking-widest text-xs">Fetching Live Streams...</div>
+            <div id="initial-loading" class="text-center py-20 text-slate-600 animate-pulse uppercase tracking-widest text-xs">Connecting to Secure Server...</div>
         </div>
     </div>
 
-    <!-- Player Modal -->
+    <!-- Player Modal (Watch Live နှိပ်မှ ပေါ်လာမည်) -->
     <div id="player-overlay" class="fixed inset-0 flex items-center justify-center p-2">
         <div class="player-box relative bg-black rounded-2xl overflow-hidden border border-slate-800 shadow-2xl">
             <!-- Close & Unlock Buttons -->
@@ -62,10 +63,10 @@
                 </button>
             </div>
 
-            <!-- Loader -->
+            <!-- Loader inside Modal -->
             <div id="stream-loader" class="absolute inset-0 flex flex-col items-center justify-center bg-slate-950 z-40">
                 <div class="w-10 h-10 border-2 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
-                <p class="mt-4 text-[9px] text-slate-500 font-bold uppercase tracking-[0.3em]">Connecting to Secure Server</p>
+                <p class="mt-4 text-[9px] text-slate-500 font-bold uppercase tracking-[0.3em]">Bypassing Ads & Syncing Stream</p>
             </div>
 
             <iframe id="main-iframe" src="" allowfullscreen frameborder="0" scrolling="no" class="w-full h-full"></iframe>
@@ -75,7 +76,7 @@
     <script>
         async function fetchMatches() {
             try {
-                const res = await fetch('matches.json?v=' + new Date().getTime());
+                const res = await fetch('matches.json?v=' + Date.now());
                 const data = await res.json();
                 
                 const featuredSection = document.getElementById('featured-section');
@@ -83,35 +84,39 @@
                 const matchesList = document.getElementById('matches-list');
                 const updateTime = document.getElementById('update-time');
                 
-                updateTime.innerText = "Data Updated: " + new Date().toLocaleTimeString();
+                updateTime.innerText = "LAST SYNC: " + new Date().toLocaleTimeString();
 
                 if (!data || data.length === 0) {
                     matchesList.innerHTML = `<div class="text-center py-20 text-slate-700 font-bold uppercase tracking-widest text-xs">No active matches found.</div>`;
                     return;
                 }
 
-                // Filter Featured (Matches with logos)
-                const featuredMatches = data.filter(m => m.home_logo && m.home_logo.trim() !== "");
+                // Featured Matches (Slider style)
+                const featuredMatches = data.filter(m => m.is_featured === true);
                 if (featuredMatches.length > 0) {
                     featuredSection.style.display = 'block';
                     featuredGrid.innerHTML = featuredMatches.map(m => `
                         <div class="glass rounded-[2rem] p-6 border-b-4 border-b-blue-600 transition hover:bg-slate-900/50">
                             <div class="flex justify-between text-[9px] font-black text-blue-400 mb-6 uppercase tracking-[0.1em]">
                                 <span>${m.league}</span>
-                                <span class="flex items-center text-red-500"><span class="h-1.5 w-1.5 bg-red-500 rounded-full mr-2 live-dot"></span> LIVE</span>
+                                <span class="flex items-center text-red-500 font-bold">
+                                    <span class="h-1.5 w-1.5 bg-red-500 rounded-full mr-2 live-dot"></span> LIVE
+                                </span>
                             </div>
                             <div class="flex items-center justify-between mb-8">
                                 <div class="text-center w-[40%]">
                                     <img src="${m.home_logo}" class="w-12 h-12 mx-auto mb-3 object-contain drop-shadow-lg" onerror="this.src='https://cdn-icons-png.flaticon.com/512/53/53254.png'">
-                                    <div class="text-[10px] font-black uppercase tracking-tighter truncate">${m.home_team || m.title.split(' vs ')[0]}</div>
+                                    <div class="text-[10px] font-black uppercase tracking-tighter truncate">${m.home_team}</div>
                                 </div>
-                                <div class="text-xs font-black italic text-slate-700">VS</div>
+                                <div class="text-xs font-black italic text-slate-700 uppercase">VS</div>
                                 <div class="text-center w-[40%]">
                                     <img src="${m.away_logo}" class="w-12 h-12 mx-auto mb-3 object-contain drop-shadow-lg" onerror="this.src='https://cdn-icons-png.flaticon.com/512/53/53254.png'">
-                                    <div class="text-[10px] font-black uppercase tracking-tighter truncate">${m.away_team || m.title.split(' vs ')[1]}</div>
+                                    <div class="text-[10px] font-black uppercase tracking-tighter truncate">${m.away_team}</div>
                                 </div>
                             </div>
-                            <button onclick="openStream('${m.link}')" class="w-full bg-blue-600 hover:bg-blue-500 py-3 rounded-2xl font-black text-[10px] tracking-[0.2em] uppercase transition shadow-lg shadow-blue-900/20">Watch Live</button>
+                            <button onclick="openStream('${m.link}')" class="w-full bg-blue-600 hover:bg-blue-500 py-3 rounded-2xl font-black text-[10px] tracking-[0.2em] uppercase transition shadow-lg shadow-blue-900/20">
+                                <i class="fas fa-play-circle mr-2"></i> Watch Live
+                            </button>
                         </div>
                     `).join('');
                 }
@@ -124,17 +129,19 @@
                                 <span class="text-[8px] bg-blue-600/10 text-blue-500 px-2 py-0.5 rounded font-black uppercase tracking-widest">${m.league}</span>
                                 ${m.is_live ? '<span class="text-[9px] text-red-500 font-black animate-pulse uppercase tracking-tighter">● Live Now</span>' : ''}
                             </div>
-                            <span class="font-bold text-sm tracking-tight text-slate-200">${m.title}</span>
+                            <span class="font-bold text-sm tracking-tight text-slate-200">${m.home_team || m.title} vs ${m.away_team || ''}</span>
                         </div>
                         <div class="flex items-center gap-6">
                             <span class="text-[10px] font-mono text-slate-500 uppercase">${m.time}</span>
-                            <button onclick="openStream('${m.link}')" class="bg-slate-800 hover:bg-blue-600 px-6 py-2 rounded-xl text-[9px] font-black uppercase tracking-[0.2em] transition border border-slate-700">Stream</button>
+                            <button onclick="openStream('${m.link}')" class="bg-slate-800 hover:bg-blue-600 px-6 py-2 rounded-xl text-[9px] font-black uppercase tracking-[0.2em] transition border border-slate-700">
+                                ${m.is_live ? 'Watch' : 'Details'}
+                            </button>
                         </div>
                     </div>
                 `).join('');
 
             } catch (e) { 
-                matchesList.innerHTML = `<div class="text-center py-20 text-red-500 uppercase text-xs font-bold">Error loading match data.</div>`;
+                document.getElementById('matches-list').innerHTML = `<div class="text-center py-20 text-red-500 uppercase text-xs font-bold">Error loading match data. Please refresh.</div>`;
             }
         }
 
@@ -144,27 +151,37 @@
             const loader = document.getElementById('stream-loader');
             const unlockBtn = document.getElementById('unlock-btn');
             
-            loader.style.display = 'flex';
+            // Modal ကိုအရင်ပြမယ်
             overlay.style.display = 'flex';
+            loader.style.display = 'flex';
             
-            // Unlock button click logic
+            // Unlock button click logic (မူရင်း site ကို tab အသစ်မှာဖွင့်ရန်)
             unlockBtn.onclick = () => {
                 window.open(url, '_blank');
             };
 
+            // Iframe ထဲ link ထည့်ပြီး load ဖြစ်မှ spinner ဖျောက်မယ်
             iframe.src = url;
-            iframe.onload = () => { loader.style.display = 'none'; };
+            iframe.onload = () => { 
+                setTimeout(() => { loader.style.display = 'none'; }, 1000);
+            };
         }
 
         function closeStream() {
-            document.getElementById('player-overlay').style.display = 'none';
-            document.getElementById('main-iframe').src = "";
+            const overlay = document.getElementById('player-overlay');
+            const iframe = document.getElementById('main-iframe');
+            
+            overlay.style.display = 'none';
+            iframe.src = ""; // အသံပိတ်သွားအောင် src ကိုဖြတ်ရပါမယ်
         }
 
-        // Close on Escape key
+        // Escape Key နဲ့ ပိတ်လို့ရအောင်
         window.addEventListener('keydown', (e) => { if(e.key === 'Escape') closeStream(); });
 
+        // ပထမဆုံးအကြိမ် load လုပ်ခြင်း
         fetchMatches();
+        
+        // ၁ မိနစ်တစ်ခါ auto refresh လုပ်ခြင်း
         setInterval(fetchMatches, 60000);
     </script>
 </body>
