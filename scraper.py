@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import os
 
 def scrape_data():
     url = "https://xscore808.com/home/"
@@ -9,52 +10,79 @@ def scrape_data():
     }
     
     try:
-        response = requests.get(url, headers=headers, timeout=20)
+        response = requests.get(url, headers=headers, timeout=30)
         soup = BeautifulSoup(response.text, 'html.parser')
         matches = []
 
-        # HTML ထဲက macthline ဆိုတဲ့ class ရှိတဲ့ div တွေကို ရှာမယ်
-        match_rows = soup.find_all('div', class_='macthline')
+        # ၁။ Top Matches (Slider) ထဲက data တွေယူမယ်
+        slider_items = soup.find_all('div', class_='swiper-slide')
+        for item in slider_items:
+            try:
+                league = item.find('div', class_='match-header').contents[0].strip()
+                match_date = item.find('span', class_='match-date').text.strip()
+                
+                teams_info = item.find('div', class_='teams-info')
+                team_names = teams_info.find('div', class_='team-name').get_text(separator="|").split("|")
+                home_team = team_names[0].strip()
+                away_team = team_names[1].strip() if len(team_names) > 1 else ""
 
+                logos = item.find_all('div', class_='team-logo')
+                home_logo = logos[0].find('img')['src'] if len(logos) > 0 else ""
+                away_logo = logos[1].find('img')['src'] if len(logos) > 1 else ""
+
+                link = item.find('a')['href']
+                if not link.startswith('http'): link = "https://xscore808.com" + link
+
+                matches.append({
+                    "league": league,
+                    "home_team": home_team,
+                    "away_team": away_team,
+                    "home_logo": "https://xscore808.com" + home_logo if home_logo.startswith('/') else home_logo,
+                    "away_logo": "https://xscore808.com" + away_logo if away_logo.startswith('/') else away_logo,
+                    "time": match_date,
+                    "link": link,
+                    "is_featured": True
+                })
+            except: continue
+
+        # ၂။ Normal Match List ထဲက data တွေယူမယ်
+        match_rows = soup.find_all('div', class_='macthline')
         for row in match_rows:
             try:
-                # League နာမည်ယူမယ်
                 league = row.find('span', class_='league').text.strip()
+                date_span = row.find('span', class_='date').text.strip()
                 
-                # အသင်းနာမည်တွေနဲ့ ပွဲချိန်ကို ယူမယ်
-                # a tag ထဲက div ထဲမှာ span ၃ ခုရှိတယ် (Team A, Time, Team B)
-                match_info = row.find('a').find('div')
-                spans = match_info.find_all('span')
-                
+                link_div = row.find('a').find('div')
+                spans = link_div.find_all('span')
                 home_team = spans[0].text.strip()
                 match_time = spans[1].text.strip()
                 away_team = spans[2].text.strip()
                 
-                # Link ယူမယ်
+                status_class = spans[1].get('class', [])
+                status = "LIVE" if "today" in status_class else "UPCOMING"
+
                 link = row.find('a')['href']
-                if not link.startswith('http'):
-                    link = "https://xscore808.com" + link
+                if not link.startswith('http'): link = "https://xscore808.com" + link
 
                 matches.append({
                     "league": league,
-                    "title": f"{home_team} vs {away_team}",
-                    "time": match_time,
+                    "home_team": home_team,
+                    "away_team": away_team,
+                    "home_logo": "", # List ထဲမှာ logo မပါလို့ အလွတ်ထားမယ်
+                    "away_logo": "",
+                    "time": f"{date_span} {match_time}",
                     "link": link,
-                    "status": "LIVE" if "today" in spans[1].get('class', []) else "UPCOMING"
+                    "status": status,
+                    "is_featured": False
                 })
-            except Exception as e:
-                continue
+            except: continue
 
-        # matches.json ထဲကို သိမ်းမယ်
         with open('matches.json', 'w', encoding='utf-8') as f:
             json.dump(matches, f, indent=4, ensure_ascii=False)
-            
-        print(f"Successfully scraped {len(matches)} matches.")
+        print(f"Scraped {len(matches)} matches total.")
 
     except Exception as e:
-        print(f"Main Error: {e}")
-        with open('matches.json', 'w') as f:
-            json.dump([], f)
+        print(f"Scraper Error: {e}")
 
 if __name__ == "__main__":
     scrape_data()
