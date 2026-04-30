@@ -18,7 +18,7 @@ def get_matches_from_source(url, domain):
         soup = BeautifulSoup(response.text, 'html.parser')
         matches = []
 
-        # ၁။ Featured Matches (Logo ပါတဲ့ Slider ထဲကဟာတွေ)
+        # ၁။ Featured Matches (အပေါ်က Slider ထဲက ပွဲစဉ်တွေ)
         featured_items = soup.find_all('div', class_='swiper-slide')
         for item in featured_items:
             try:
@@ -26,17 +26,21 @@ def get_matches_from_source(url, domain):
                 if not link_tag: continue
                 
                 href = link_tag['href']
-                match_link = href if href.startswith('http') else f"https://{domain}" + href
+                
+                # အရေးကြီးဆုံးအပိုင်း - Predictions link ကို Match link ဖြစ်အောင်ပြောင်းခြင်း
+                final_link = href.replace('/predictions/', '/match/')
+                if not final_link.startswith('http'):
+                    final_link = f"https://{domain}" + final_link
                 
                 league = item.find('div', class_='match-header').contents[0].strip()
                 match_date = item.find('span', class_='match-date').text.strip()
                 
-                # Logos
+                # အသင်းတံဆိပ် (Logos)
                 imgs = item.find_all('img')
                 h_logo = imgs[0]['src'] if len(imgs) > 0 else ""
                 a_logo = imgs[1]['src'] if len(imgs) > 1 else ""
                 
-                # Team Names
+                # အသင်းနာမည် (Team Names)
                 teams_text = item.find('div', class_='team-name').get_text(separator="|").split("|")
                 h_team = teams_text[0].strip()
                 a_team = teams_text[1].strip() if len(teams_text) > 1 else ""
@@ -49,13 +53,13 @@ def get_matches_from_source(url, domain):
                     "home_logo": h_logo if h_logo.startswith('http') else f"https://{domain}" + h_logo,
                     "away_logo": a_logo if a_logo.startswith('http') else f"https://{domain}" + a_logo,
                     "time": match_date,
-                    "link": match_link,
+                    "link": final_link, # Video တိုက်ရိုက်ကြည့်ရမဲ့ link
                     "is_live": True,
                     "is_featured": True
                 })
             except: continue
 
-        # ၂။ Normal Match List (အောက်က List အကုန်ယူမယ်)
+        # ၂။ Normal Match List (အောက်က ပွဲစဉ်စာရင်းအားလုံး)
         rows = soup.find_all('div', class_='macthline')
         for row in rows:
             try:
@@ -64,7 +68,11 @@ def get_matches_from_source(url, domain):
                 
                 link_tag = row.find('a')
                 href = link_tag['href']
-                match_link = href if href.startswith('http') else f"https://{domain}" + href
+                
+                # Predictions link ကို Match link ဖြစ်အောင်ပြောင်းခြင်း
+                final_link = href.replace('/predictions/', '/match/')
+                if not final_link.startswith('http'):
+                    final_link = f"https://{domain}" + final_link
                 
                 # xscore808 structure: a > div > span (Home, Time, Away)
                 spans = link_tag.find('div').find_all('span')
@@ -72,7 +80,7 @@ def get_matches_from_source(url, domain):
                 m_time = spans[1].text.strip()
                 a_team = spans[2].text.strip()
                 
-                # check if live
+                # Live ဖြစ်မဖြစ် စစ်ဆေးခြင်း
                 is_live = "today" in spans[1].get('class', []) or "live" in spans[1].get('class', [])
 
                 matches.append({
@@ -83,7 +91,7 @@ def get_matches_from_source(url, domain):
                     "home_logo": "", 
                     "away_logo": "",
                     "time": f"{date_label} {m_time}",
-                    "link": match_link,
+                    "link": final_link, # Video တိုက်ရိုက်ကြည့်ရမဲ့ link
                     "is_live": is_live,
                     "is_featured": False
                 })
@@ -91,25 +99,25 @@ def get_matches_from_source(url, domain):
 
         return matches
     except Exception as e:
-        print(f"Error on {domain}: {e}")
+        print(f"Error while scraping {domain}: {e}")
         return []
 
 def main():
-    print("Scraper process started...")
+    print("Scraper starting to fetch match data...")
     
-    # ymovies.top ကနေ အရင်ကြိုးစားမယ် (Video ပိုပေါ်လေ့ရှိလို့)
+    # ymovies.top မှ အရင်ယူမယ်
     final_data = get_matches_from_source("https://ymovies.top/soccerstreams/", "ymovies.top")
     
-    # အကယ်၍ ymovies ကနေ ဘာမှမရရင် xscore808 ကို backup သုံးမယ်
+    # မရရင် xscore808 မှ ထပ်ယူမယ်
     if not final_data:
-        print("Switching to backup source: xscore808.com")
+        print("Ymovies failed, switching to backup: xscore808.com")
         final_data = get_matches_from_source("https://xscore808.com/home/", "xscore808.com")
 
-    # matches.json ထဲကို save လုပ်မယ်
+    # ရလာတဲ့ data အားလုံးကို matches.json ထဲ သိမ်းမယ်
     with open('matches.json', 'w', encoding='utf-8') as f:
         json.dump(final_data, f, indent=4, ensure_ascii=False)
     
-    print(f"Done! {len(final_data)} matches saved to matches.json")
+    print(f"Scrape completed! {len(final_data)} matches saved with Direct Video Links.")
 
 if __name__ == "__main__":
     main()
