@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Football Streams</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        body { background-color: #0f172a; color: white; }
+        .match-card { transition: all 0.3s ease; border: 1px solid #1e293b; }
+        .match-card:hover { transform: translateY(-5px); border-color: #38bdf8; box-shadow: 0 10px 20px -10px #38bdf8; }
+        .live-dot { animation: pulse 1.5s infinite; }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
+    </style>
+</head>
+<body>
+    <div class="max-w-5xl mx-auto px-4 py-8">
+        <!-- Header -->
+        <header class="flex justify-between items-center mb-10">
+            <div>
+                <h1 class="text-3xl font-bold text-sky-400"><i class="fas fa-futbol mr-2"></i>SOCCER LIVE</h1>
+                <p class="text-gray-400 text-sm">Real-time match updates from ymovies</p>
+            </div>
+            <div id="last-update" class="text-xs text-gray-500">Updating...</div>
+        </header>
+
+        <!-- Match Grid -->
+        <div id="match-container" class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <!-- Loading State -->
+            <div class="text-center py-20 col-span-full">
+                <i class="fas fa-spinner fa-spin text-4xl text-sky-500"></i>
+                <p class="mt-4">Fetching live matches...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        async function loadMatches() {
+            try {
+                const response = await fetch('matches.json');
+                const matches = await response.json();
+                const container = document.getElementById('match-container');
+                const lastUpdate = document.getElementById('last-update');
+                
+                lastUpdate.innerText = "Last Updated: " + new Date().toLocaleTimeString();
+                
+                if (matches.length === 0) {
+                    container.innerHTML = `<p class="col-span-full text-center text-gray-500">No matches found at the moment.</p>`;
+                    return;
+                }
+
+                container.innerHTML = matches.map(match => `
+                    <div class="match-card bg-slate-800 p-5 rounded-2xl flex flex-col justify-between">
+                        <div class="flex justify-between items-start mb-4">
+                            <span class="bg-slate-700 text-xs py-1 px-3 rounded-full text-sky-400 font-medium">Football</span>
+                            <span class="flex items-center text-red-500 text-xs font-bold uppercase">
+                                <span class="h-2 w-2 bg-red-500 rounded-full mr-2 live-dot"></span> Live
+                            </span>
+                        </div>
+                        <h3 class="text-lg font-semibold mb-6 text-slate-100 leading-snug">${match.title}</h3>
+                        <a href="${match.link}" target="_blank" 
+                           class="w-full bg-sky-600 hover:bg-sky-500 text-center py-3 rounded-xl font-bold transition duration-200">
+                            <i class="fas fa-play-circle mr-2"></i> Watch Stream
+                        </a>
+                    </div>
+                `).join('');
+            } catch (error) {
+                console.error("Error loading matches:", error);
+            }
+        }
+
+        loadMatches();
+        // 5 မိနစ်တစ်ခါ refresh လုပ်မယ်
+        setInterval(loadMatches, 300000);
+    </script>
+</body>
+</html>
