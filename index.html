@@ -17,6 +17,17 @@
         .custom-scrollbar::-webkit-scrollbar { width: 5px; }
         .custom-scrollbar::-webkit-scrollbar-thumb { background: #1e293b; border-radius: 10px; }
         .logo-font { font-family: 'Orbitron', sans-serif; }
+        
+        /* Time Box Clickable Style */
+        .time-trigger { 
+            cursor: pointer; 
+            transition: all 0.3s ease;
+        }
+        .time-trigger:hover { 
+            background: rgba(59, 130, 246, 0.2);
+            color: #3b82f6;
+            transform: scale(1.05);
+        }
     </style>
 </head>
 <body class="pb-10 custom-scrollbar">
@@ -50,7 +61,7 @@
         </div>
     </div>
 
-    <!-- Player Modal (Watch Live နှိပ်မှ ပေါ်လာမည်) -->
+    <!-- Player Modal -->
     <div id="player-overlay" class="fixed inset-0 flex items-center justify-center p-2">
         <div class="player-box relative bg-black rounded-2xl overflow-hidden border border-slate-800 shadow-2xl">
             <!-- Close & Unlock Buttons -->
@@ -91,7 +102,7 @@
                     return;
                 }
 
-                // Featured Matches (Slider style)
+                // Featured Section Logic
                 const featuredMatches = data.filter(m => m.is_featured === true);
                 if (featuredMatches.length > 0) {
                     featuredSection.style.display = 'block';
@@ -108,7 +119,7 @@
                                     <img src="${m.home_logo}" class="w-12 h-12 mx-auto mb-3 object-contain drop-shadow-lg" onerror="this.src='https://cdn-icons-png.flaticon.com/512/53/53254.png'">
                                     <div class="text-[10px] font-black uppercase tracking-tighter truncate">${m.home_team}</div>
                                 </div>
-                                <div class="text-xs font-black italic text-slate-700 uppercase">VS</div>
+                                <div class="text-xs font-black italic text-slate-700 uppercase cursor-pointer hover:text-blue-500 transition" onclick="openStream('${m.link}')">VS</div>
                                 <div class="text-center w-[40%]">
                                     <img src="${m.away_logo}" class="w-12 h-12 mx-auto mb-3 object-contain drop-shadow-lg" onerror="this.src='https://cdn-icons-png.flaticon.com/512/53/53254.png'">
                                     <div class="text-[10px] font-black uppercase tracking-tighter truncate">${m.away_team}</div>
@@ -121,27 +132,36 @@
                     `).join('');
                 }
 
-                // All List
+                // List View Logic (အလယ်က အချိန်ကိုနှိပ်မှ ဗီဒီယိုပွင့်မည်)
                 matchesList.innerHTML = data.map(m => `
-                    <div class="glass rounded-2xl p-4 flex flex-wrap justify-between items-center gap-4 border-l-2 ${m.is_live ? 'border-l-blue-500' : 'border-l-slate-800'} transition hover:border-l-blue-400">
+                    <div class="glass rounded-2xl p-4 flex flex-wrap justify-between items-center gap-4 border-l-2 ${m.is_live ? 'border-l-blue-500' : 'border-l-slate-800'} transition">
                         <div class="flex-1 min-w-[200px]">
                             <div class="flex items-center gap-3 mb-1">
                                 <span class="text-[8px] bg-blue-600/10 text-blue-500 px-2 py-0.5 rounded font-black uppercase tracking-widest">${m.league}</span>
                                 ${m.is_live ? '<span class="text-[9px] text-red-500 font-black animate-pulse uppercase tracking-tighter">● Live Now</span>' : ''}
                             </div>
-                            <span class="font-bold text-sm tracking-tight text-slate-200">${m.home_team || m.title} vs ${m.away_team || ''}</span>
+                            <div class="flex items-center gap-2">
+                                <span class="font-bold text-sm tracking-tight text-slate-200 w-[40%] truncate text-right">${m.home_team}</span>
+                                
+                                <!-- ဤနေရာသည် အလယ်က အချိန် Box ဖြစ်သည် -->
+                                <span class="time-trigger bg-slate-800/50 px-3 py-1 rounded-lg text-[10px] font-mono text-blue-400 font-bold uppercase border border-slate-700 mx-2" 
+                                      onclick="openStream('${m.link}')" title="Click to Watch Live">
+                                    ${m.time}
+                                </span>
+                                
+                                <span class="font-bold text-sm tracking-tight text-slate-200 w-[40%] truncate text-left">${m.away_team}</span>
+                            </div>
                         </div>
-                        <div class="flex items-center gap-6">
-                            <span class="text-[10px] font-mono text-slate-500 uppercase">${m.time}</span>
-                            <button onclick="openStream('${m.link}')" class="bg-slate-800 hover:bg-blue-600 px-6 py-2 rounded-xl text-[9px] font-black uppercase tracking-[0.2em] transition border border-slate-700">
-                                ${m.is_live ? 'Watch' : 'Details'}
+                        <div class="flex items-center gap-4">
+                            <button onclick="openStream('${m.link}')" class="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-xl text-[9px] font-black uppercase tracking-widest transition shadow-lg shadow-blue-900/20">
+                                WATCH
                             </button>
                         </div>
                     </div>
                 `).join('');
 
             } catch (e) { 
-                document.getElementById('matches-list').innerHTML = `<div class="text-center py-20 text-red-500 uppercase text-xs font-bold">Error loading match data. Please refresh.</div>`;
+                document.getElementById('matches-list').innerHTML = `<div class="text-center py-20 text-red-500 uppercase text-xs font-bold">Error loading match data.</div>`;
             }
         }
 
@@ -151,16 +171,13 @@
             const loader = document.getElementById('stream-loader');
             const unlockBtn = document.getElementById('unlock-btn');
             
-            // Modal ကိုအရင်ပြမယ်
             overlay.style.display = 'flex';
             loader.style.display = 'flex';
             
-            // Unlock button click logic (မူရင်း site ကို tab အသစ်မှာဖွင့်ရန်)
             unlockBtn.onclick = () => {
                 window.open(url, '_blank');
             };
 
-            // Iframe ထဲ link ထည့်ပြီး load ဖြစ်မှ spinner ဖျောက်မယ်
             iframe.src = url;
             iframe.onload = () => { 
                 setTimeout(() => { loader.style.display = 'none'; }, 1000);
@@ -170,18 +187,13 @@
         function closeStream() {
             const overlay = document.getElementById('player-overlay');
             const iframe = document.getElementById('main-iframe');
-            
             overlay.style.display = 'none';
-            iframe.src = ""; // အသံပိတ်သွားအောင် src ကိုဖြတ်ရပါမယ်
+            iframe.src = ""; 
         }
 
-        // Escape Key နဲ့ ပိတ်လို့ရအောင်
         window.addEventListener('keydown', (e) => { if(e.key === 'Escape') closeStream(); });
 
-        // ပထမဆုံးအကြိမ် load လုပ်ခြင်း
         fetchMatches();
-        
-        // ၁ မိနစ်တစ်ခါ auto refresh လုပ်ခြင်း
         setInterval(fetchMatches, 60000);
     </script>
 </body>
