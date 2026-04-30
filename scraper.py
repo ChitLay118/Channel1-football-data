@@ -3,57 +3,56 @@ from bs4 import BeautifulSoup
 import json
 
 def scrape_data():
-    # URL ကို တိုက်ရိုက် soccer streams page ကို ညွှန်းပါမယ်
-    url = "https://ymovies.top/soccerstreams/"
-    
+    url = "https://xscore808.com/home/"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36',
-        'Accept-Language': 'en-US,en;q=0.9',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
     }
     
     try:
-        response = requests.get(url, headers=headers, timeout=15)
+        response = requests.get(url, headers=headers, timeout=20)
         soup = BeautifulSoup(response.text, 'html.parser')
         matches = []
 
-        # ymovies ရဲ့ တကယ့် structure ကို ရှာဖွေခြင်း
-        # ပုံမှန်အားဖြင့် table သို့မဟုတ် a tag တွေထဲမှာ ရှိတတ်ပါတယ်
-        # အသုံးများတဲ့ class name တွေကို စမ်းကြည့်ပါမယ်
-        links = soup.find_all('a')
+        # HTML ထဲက macthline ဆိုတဲ့ class ရှိတဲ့ div တွေကို ရှာမယ်
+        match_rows = soup.find_all('div', class_='macthline')
 
-        for link in links:
-            href = link.get('href', '')
-            # link ထဲမှာ stream သို့မဟုတ် soccer အစရှိတာ ပါတဲ့ link တွေကိုပဲ ယူမယ်
-            if '/soccerstreams/' in href and href != '/soccerstreams/':
-                title = link.get_text().strip()
+        for row in match_rows:
+            try:
+                # League နာမည်ယူမယ်
+                league = row.find('span', class_='league').text.strip()
                 
-                # အကယ်၍ title က အလွတ်ဖြစ်နေရင် title attribute ကို ရှာမယ်
-                if not title:
-                    title = link.get('title', 'Live Match')
-
-                full_link = href
-                if not href.startswith('http'):
-                    full_link = "https://ymovies.top" + href
+                # အသင်းနာမည်တွေနဲ့ ပွဲချိန်ကို ယူမယ်
+                # a tag ထဲက div ထဲမှာ span ၃ ခုရှိတယ် (Team A, Time, Team B)
+                match_info = row.find('a').find('div')
+                spans = match_info.find_all('span')
+                
+                home_team = spans[0].text.strip()
+                match_time = spans[1].text.strip()
+                away_team = spans[2].text.strip()
+                
+                # Link ယူမယ်
+                link = row.find('a')['href']
+                if not link.startswith('http'):
+                    link = "https://xscore808.com" + link
 
                 matches.append({
-                    "title": title,
-                    "link": full_link,
-                    "status": "LIVE"
+                    "league": league,
+                    "title": f"{home_team} vs {away_team}",
+                    "time": match_time,
+                    "link": link,
+                    "status": "LIVE" if "today" in spans[1].get('class', []) else "UPCOMING"
                 })
+            except Exception as e:
+                continue
 
-        # တကယ်လို့ ဘာမှ ရှာမတွေ့ရင် (Empty ဖြစ်နေရင်) စမ်းသပ်ဖို့ Sample data တစ်ခု ထည့်ပေးထားမယ်
-        if not matches:
-            print("No matches found on site. Adding test data...")
-            # matches.append({"title": "No Live Matches Currently", "link": "#", "status": "OFFLINE"})
-
+        # matches.json ထဲကို သိမ်းမယ်
         with open('matches.json', 'w', encoding='utf-8') as f:
             json.dump(matches, f, indent=4, ensure_ascii=False)
             
         print(f"Successfully scraped {len(matches)} matches.")
 
     except Exception as e:
-        print(f"Error occurred: {e}")
-        # Error တက်ရင်လည်း json file မပျက်အောင် အလွတ်သိမ်းထားမယ်
+        print(f"Main Error: {e}")
         with open('matches.json', 'w') as f:
             json.dump([], f)
 
