@@ -1,31 +1,28 @@
-name: Match Scraper
+name: Global Football Update
 on:
   schedule:
-    - cron: '0 * * * *' # တစ်နာရီတစ်ခါ run ပါမည်
-  workflow_dispatch: # လက်နဲ့ကိုယ်တိုင် run ချင်ရင်လည်းရပါသည်
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
+      - uses: actions/checkout@v3
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
       - name: Install dependencies
         run: pip install requests beautifulsoup4
-
       - name: Run Scraper
         run: python scraper.py
-
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add matches.json
-          git commit -m "Auto-update match list" || exit 0
+          git commit -m "Auto-update matches: $(date)" || exit 0
           git push
