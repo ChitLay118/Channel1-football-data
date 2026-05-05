@@ -1,18 +1,6 @@
 [
     {
         "league": "UEFA Champions League",
-        "title": "Arsenal vs Atletico Madrid",
-        "home_team": "Arsenal",
-        "away_team": "Atletico Madrid",
-        "home_logo": "https://xscore808.com/team/arsenal.png",
-        "away_logo": "https://xscore808.com/team/Atletico_Madrid.png",
-        "time": "Tuesday, 19:00",
-        "link": "https://xscore808.com/match/arsenal-vs-atletico-madrid/78957725/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "UEFA Champions League",
         "title": "Bayern Munich vs PSG",
         "home_team": "Bayern Munich",
         "away_team": "PSG",
@@ -193,18 +181,6 @@
     },
     {
         "league": "UEFA Champions League",
-        "title": "Arsenal vs Atletico Madrid",
-        "home_team": "Arsenal",
-        "away_team": "Atletico Madrid",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-05 19:00",
-        "link": "https://xscore808.com/match/arsenal-vs-atletico-madrid/78957725/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "UEFA Champions League",
         "title": "Bayern Munich vs PSG",
         "home_team": "Bayern Munich",
         "away_team": "PSG",
@@ -368,6 +344,18 @@
         "away_logo": "",
         "time": "05-09 13:30",
         "link": "https://xscore808.com/match/stuttgart-vs-leverkusen/78957892/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Bundesliga",
+        "title": "Hoffenheim vs Werder Bremen",
+        "home_team": "Hoffenheim",
+        "away_team": "Werder Bremen",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-09 13:30",
+        "link": "https://xscore808.com/match/hoffenheim-vs-werder-bremen/78957893/",
         "is_live": true,
         "is_featured": false
     }
