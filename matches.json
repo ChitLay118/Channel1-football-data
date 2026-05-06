@@ -1,24 +1,12 @@
 [
     {
-        "league": "UEFA Champions League",
-        "title": "Bayern Munich vs PSG",
-        "home_team": "Bayern Munich",
-        "away_team": "PSG",
-        "home_logo": "https://xscore808.com/team/Bayern-Munchen.png",
-        "away_logo": "https://xscore808.com/team/psg.png",
-        "time": "Wednesday, 19:00",
-        "link": "https://xscore808.com/match/bayern-munich-vs-psg/78957726/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
         "league": "UEFA Europa League",
         "title": "Aston Villa vs Nottingham Forest",
         "home_team": "Aston Villa",
         "away_team": "Nottingham Forest",
         "home_logo": "https://xscore808.com/team/astonvilla.png",
         "away_logo": "https://xscore808.com/team/nottingham_forest.png",
-        "time": "Thursday, 19:00",
+        "time": "Thu 7 May, 19:00",
         "link": "https://xscore808.com/match/aston-villa-vs-nottingham-forest/78957731/",
         "is_live": true,
         "is_featured": true
@@ -30,7 +18,7 @@
         "away_team": "Frankfurt",
         "home_logo": "https://xscore808.com/team/dortmund.png",
         "away_logo": "https://xscore808.com/team/Eintracht_Frankfurt.png",
-        "time": "Friday, 18:30",
+        "time": "Fri 8 May, 18:30",
         "link": "https://xscore808.com/match/dortmund-vs-frankfurt/78957891/",
         "is_live": true,
         "is_featured": true
@@ -42,7 +30,7 @@
         "away_team": "Chelsea",
         "home_logo": "https://xscore808.com/team/liverpool.png",
         "away_logo": "https://xscore808.com/team/chelsea.png",
-        "time": "Saturday, 11:30",
+        "time": "Sat 9 May, 11:30",
         "link": "https://xscore808.com/match/liverpool-vs-chelsea/78957861/",
         "is_live": true,
         "is_featured": true
@@ -54,7 +42,7 @@
         "away_team": "Manchester United",
         "home_logo": "https://xscore808.com/team/sunderland.png",
         "away_logo": "https://xscore808.com/team/manchesterunited.png",
-        "time": "Saturday, 14:00",
+        "time": "Sat 9 May, 14:00",
         "link": "https://xscore808.com/match/sunderland-vs-manchester-united/78957864/",
         "is_live": true,
         "is_featured": true
@@ -66,7 +54,7 @@
         "away_team": "Inter",
         "home_logo": "https://xscore808.com/team/lazio.png",
         "away_logo": "https://xscore808.com/team/inter_milan.png",
-        "time": "Saturday, 16:00",
+        "time": "Sat 9 May, 16:00",
         "link": "https://xscore808.com/match/lazio-vs-inter-milan/78957883/",
         "is_live": true,
         "is_featured": true
@@ -78,7 +66,7 @@
         "away_team": "Brentford",
         "home_logo": "https://xscore808.com/team/manchestercity.png",
         "away_logo": "https://xscore808.com/team/Brentford.png",
-        "time": "Saturday, 16:30",
+        "time": "Sat 9 May, 16:30",
         "link": "https://xscore808.com/match/manchester-city-vs-brentford/78957865/",
         "is_live": true,
         "is_featured": true
@@ -90,7 +78,7 @@
         "away_team": "Bayern Munich",
         "home_logo": "https://xscore808.com/team/wolfsburg.png",
         "away_logo": "https://xscore808.com/team/Bayern-Munchen.png",
-        "time": "Saturday, 16:30",
+        "time": "Sat 9 May, 16:30",
         "link": "https://xscore808.com/match/wolfsburg-vs-bayern-munich/78957896/",
         "is_live": true,
         "is_featured": true
@@ -102,7 +90,7 @@
         "away_team": "Arsenal",
         "home_logo": "https://xscore808.com/team/westham.png",
         "away_logo": "https://xscore808.com/team/arsenal.png",
-        "time": "Sunday, 15:30",
+        "time": "Sun 10 May, 15:30",
         "link": "https://xscore808.com/match/west-ham-vs-arsenal/78957869/",
         "is_live": true,
         "is_featured": true
@@ -114,7 +102,7 @@
         "away_team": "Real Madrid",
         "home_logo": "https://xscore808.com/team/Barcelona.png",
         "away_logo": "https://xscore808.com/team/real-madrid.png",
-        "time": "Sunday, 19:00",
+        "time": "Sun 10 May, 19:00",
         "link": "https://xscore808.com/match/barcelona-vs-real-madrid/78957879/",
         "is_live": true,
         "is_featured": true
@@ -126,7 +114,7 @@
         "away_team": "Brest",
         "home_logo": "https://xscore808.com/team/psg.png",
         "away_logo": "https://xscore808.com/team/Brest.gif",
-        "time": "Sunday, 19:00",
+        "time": "Sun 10 May, 19:00",
         "link": "https://xscore808.com/match/psg-vs-brest/78957906/",
         "is_live": true,
         "is_featured": true
@@ -138,7 +126,7 @@
         "away_team": "Leeds United",
         "home_logo": "https://xscore808.com/team/tottenham.png",
         "away_logo": "https://xscore808.com/team/Leeds_Utd.gif",
-        "time": "Monday, 19:00",
+        "time": "Mon 11 May, 19:00",
         "link": "https://xscore808.com/match/tottenham-vs-leeds/78957870/",
         "is_live": true,
         "is_featured": true
@@ -150,7 +138,7 @@
         "away_team": "Inter",
         "home_logo": "https://xscore808.com/team/lazio.png",
         "away_logo": "https://xscore808.com/team/inter_milan.png",
-        "time": "Wednesday, 19:00",
+        "time": "Wed 13 May, 19:00",
         "link": "https://xscore808.com/match/lazio-vs-inter-milan/78957802/",
         "is_live": true,
         "is_featured": true
@@ -162,7 +150,7 @@
         "away_team": "Manchester City",
         "home_logo": "https://xscore808.com/team/chelsea.png",
         "away_logo": "https://xscore808.com/team/manchestercity.png",
-        "time": "Saturday, 14:00",
+        "time": "Sat 16 May, 14:00",
         "link": "https://xscore808.com/match/chelsea-vs-manchester-city/78957803/",
         "is_live": true,
         "is_featured": true
@@ -174,22 +162,10 @@
         "away_team": "Stuttgart",
         "home_logo": "https://xscore808.com/team/Bayern-Munchen.png",
         "away_logo": "https://xscore808.com/team/stuttgart.png",
-        "time": "Saturday, 18:00",
+        "time": "Sat 23 May, 18:00",
         "link": "https://xscore808.com/match/bayern-munich-vs-stuttgart/78957801/",
         "is_live": true,
         "is_featured": true
-    },
-    {
-        "league": "UEFA Champions League",
-        "title": "Bayern Munich vs PSG",
-        "home_team": "Bayern Munich",
-        "away_team": "PSG",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-06 19:00",
-        "link": "https://xscore808.com/match/bayern-munich-vs-psg/78957726/",
-        "is_live": true,
-        "is_featured": false
     },
     {
         "league": "Saudi Pro League",
@@ -356,6 +332,18 @@
         "away_logo": "",
         "time": "05-09 13:30",
         "link": "https://xscore808.com/match/hoffenheim-vs-werder-bremen/78957893/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Bundesliga",
+        "title": "Augsburg vs Monchengladbach",
+        "home_team": "Augsburg",
+        "away_team": "Monchengladbach",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-09 13:30",
+        "link": "https://xscore808.com/match/augsburg-vs-monchengladbach/78957894/",
         "is_live": true,
         "is_featured": false
     }
