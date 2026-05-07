@@ -12,6 +12,18 @@
         "is_featured": true
     },
     {
+        "league": "UEFA Conference League",
+        "title": "Crystal Palace vs Shakhtar Donetsk",
+        "home_team": "Crystal Palace",
+        "away_team": "Shakhtar Donetsk",
+        "home_logo": "https://xscore808.com/team/Crystal-Palace.png",
+        "away_logo": "https://xscore808.com/team/shakhtar_Donetsk.png",
+        "time": "Thu 7 May, 19:00",
+        "link": "https://xscore808.com/match/crystal-palace-vs-shakhtar-donetsk/78957733/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
         "league": "Bundesliga",
         "title": "Dortmund vs Frankfurt",
         "home_team": "Dortmund",
