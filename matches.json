@@ -168,6 +168,18 @@
         "is_featured": true
     },
     {
+        "league": "UEFA Champions League",
+        "title": "PSG vs Arsenal",
+        "home_team": "PSG",
+        "away_team": "Arsenal",
+        "home_logo": "https://xscore808.com/team/psg.png",
+        "away_logo": "https://xscore808.com/team/arsenal.png",
+        "time": "Sat 30 May, 16:00",
+        "link": "https://xscore808.com/match/psg-vs-arsenal/78957915/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
         "league": "Saudi Pro League",
         "title": "Al Shabab vs Al-Nassr",
         "home_team": "Al Shabab",
