@@ -1,17 +1,5 @@
 [
     {
-        "league": "Bundesliga",
-        "title": "Stuttgart vs Bayer Leverkusen",
-        "home_team": "Stuttgart",
-        "away_team": "Bayer Leverkusen",
-        "home_logo": "https://xscore808.com/team/stuttgart.png",
-        "away_logo": "https://xscore808.com/team/Leverkusen.png",
-        "time": "Sat 9 May, 13:30",
-        "link": "https://xscore808.com/match/stuttgart-vs-leverkusen/78957892/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
         "league": "Premier League",
         "title": "Brighton vs Wolves",
         "home_team": "Brighton",
@@ -252,64 +240,16 @@
         "is_featured": true
     },
     {
-        "league": "Serie A",
-        "title": "Cagliari vs Udinese",
-        "home_team": "Cagliari",
-        "away_team": "Udinese",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-09 13:00",
-        "link": "https://xscore808.com/match/cagliari-vs-udinese/78957882/",
+        "league": "DFB-Pokal",
+        "title": "Bayern Munich vs Stuttgart",
+        "home_team": "Bayern Munich",
+        "away_team": "Stuttgart",
+        "home_logo": "https://xscore808.com/team/Bayern-Munchen.png",
+        "away_logo": "https://xscore808.com/team/stuttgart.png",
+        "time": "Sat 23 May, 18:00",
+        "link": "https://xscore808.com/match/bayern-munich-vs-stuttgart/78957801/",
         "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Bundesliga",
-        "title": "Stuttgart vs Bayer Leverkusen",
-        "home_team": "Stuttgart",
-        "away_team": "Bayer Leverkusen",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-09 13:30",
-        "link": "https://xscore808.com/match/stuttgart-vs-leverkusen/78957892/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Bundesliga",
-        "title": "Hoffenheim vs Werder Bremen",
-        "home_team": "Hoffenheim",
-        "away_team": "Werder Bremen",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-09 13:30",
-        "link": "https://xscore808.com/match/hoffenheim-vs-werder-bremen/78957893/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Bundesliga",
-        "title": "Augsburg vs Monchengladbach",
-        "home_team": "Augsburg",
-        "away_team": "Monchengladbach",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-09 13:30",
-        "link": "https://xscore808.com/match/augsburg-vs-monchengladbach/78957894/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Bundesliga",
-        "title": "RB Leipzig vs St. Pauli",
-        "home_team": "RB Leipzig",
-        "away_team": "St. Pauli",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-09 13:30",
-        "link": "https://xscore808.com/match/rb-leipzig-vs-st-pauli/78957895/",
-        "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "Premier League",
@@ -428,6 +368,66 @@
         "away_logo": "",
         "time": "05-09 18:45",
         "link": "https://xscore808.com/match/lecce-vs-juventus/78957884/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "La Liga",
+        "title": "Real Sociedad vs Betis",
+        "home_team": "Real Sociedad",
+        "away_team": "Betis",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-09 19:00",
+        "link": "https://xscore808.com/match/real-sociedad-vs-betis/78957875/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Serie A",
+        "title": "Hellas Verona vs Calcio Como",
+        "home_team": "Hellas Verona",
+        "away_team": "Calcio Como",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-10 10:30",
+        "link": "https://xscore808.com/match/hellas-verona-vs-calcio-como/78957885/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Premiership",
+        "title": "Celtic vs Rangers",
+        "home_team": "Celtic",
+        "away_team": "Rangers",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-10 11:00",
+        "link": "https://xscore808.com/match/celtic-vs-glasgow-rangers/78957919/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "La Liga",
+        "title": "Mallorca vs Villarreal",
+        "home_team": "Mallorca",
+        "away_team": "Villarreal",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-10 12:00",
+        "link": "https://xscore808.com/match/mallorca-vs-villarreal/78957876/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Premier League",
+        "title": "Burnley vs Aston Villa",
+        "home_team": "Burnley",
+        "away_team": "Aston Villa",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-10 13:00",
+        "link": "https://xscore808.com/match/burnley-vs-aston-villa/78957866/",
         "is_live": true,
         "is_featured": false
     }
