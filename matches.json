@@ -61,6 +61,42 @@
     },
     {
         "league": "Premier League",
+        "title": "Brentford vs Crystal Palace",
+        "home_team": "Brentford",
+        "away_team": "Crystal Palace",
+        "home_logo": "https://xscore808.com/team/Brentford.png",
+        "away_logo": "https://xscore808.com/team/Crystal-Palace.png",
+        "time": "Sun 17 May, 14:00",
+        "link": "https://xscore808.com/match/brentford-vs-crystal-palace/78957939/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "Premier League",
+        "title": "Leeds United vs Brighton",
+        "home_team": "Leeds United",
+        "away_team": "Brighton",
+        "home_logo": "https://xscore808.com/team/Leeds_Utd.gif",
+        "away_logo": "https://xscore808.com/team/Brighton.gif",
+        "time": "Sun 17 May, 14:00",
+        "link": "https://xscore808.com/match/leeds-vs-brighton/78957940/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "Premier League",
+        "title": "Everton vs Sunderland",
+        "home_team": "Everton",
+        "away_team": "Sunderland",
+        "home_logo": "https://xscore808.com/team/everton.png",
+        "away_logo": "https://xscore808.com/team/sunderland.png",
+        "time": "Sun 17 May, 14:00",
+        "link": "https://xscore808.com/match/everton-vs-sunderland/78957942/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "Premier League",
         "title": "Newcastle United vs West Ham",
         "home_team": "Newcastle United",
         "away_team": "West Ham",
