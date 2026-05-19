@@ -48,6 +48,18 @@
         "is_featured": true
     },
     {
+        "league": "English Championship",
+        "title": "Hull City vs Southampton",
+        "home_team": "Hull City",
+        "away_team": "Southampton",
+        "home_logo": "https://xscore808.com/team/hullcity.png",
+        "away_logo": "https://xscore808.com/team/southampton.png",
+        "time": "Sat 23 May, 15:30",
+        "link": "https://xscore808.com/match/hull-city-vs-southampton/78957996/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
         "league": "DFB-Pokal",
         "title": "Bayern Munich vs Stuttgart",
         "home_team": "Bayern Munich",
@@ -132,6 +144,30 @@
         "is_featured": false
     },
     {
+        "league": "Bundesliga",
+        "title": "Wolfsburg vs Paderborn 07",
+        "home_team": "Wolfsburg",
+        "away_team": "Paderborn 07",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-21 18:30",
+        "link": "https://xscore808.com/match/wolfsburg-vs-paderborn-07/78957994/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "English Championship",
+        "title": "Hull City vs Southampton",
+        "home_team": "Hull City",
+        "away_team": "Southampton",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-23 15:30",
+        "link": "https://xscore808.com/match/hull-city-vs-southampton/78957996/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
         "league": "DFB-Pokal",
         "title": "Bayern Munich vs Stuttgart",
         "home_team": "Bayern Munich",
@@ -140,6 +176,18 @@
         "away_logo": "",
         "time": "05-23 18:00",
         "link": "https://xscore808.com/match/bayern-munich-vs-stuttgart/78957801/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Bundesliga",
+        "title": "Paderborn 07 vs Wolfsburg",
+        "home_team": "Paderborn 07",
+        "away_team": "Wolfsburg",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-25 18:30",
+        "link": "https://xscore808.com/match/paderborn-07-vs-wolfsburg/78957995/",
         "is_live": true,
         "is_featured": false
     },
@@ -224,42 +272,6 @@
         "away_logo": "",
         "time": "06-13 19:00",
         "link": "https://xscore808.com/match/qatar-vs-switzerland/78956399/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Brazil vs Morocco",
-        "home_team": "Brazil",
-        "away_team": "Morocco",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-13 22:00",
-        "link": "https://xscore808.com/match/brazil-vs-morocco/78956397/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Haiti vs Scotland",
-        "home_team": "Haiti",
-        "away_team": "Scotland",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-14 01:00",
-        "link": "https://xscore808.com/match/haiti-vs-scotland/78956400/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Australia vs Turkey",
-        "home_team": "Australia",
-        "away_team": "Turkey",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-14 04:00",
-        "link": "https://xscore808.com/match/australia-vs-turkey/78957598/",
         "is_live": true,
         "is_featured": false
     }
