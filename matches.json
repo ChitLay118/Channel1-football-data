@@ -1,29 +1,5 @@
 [
     {
-        "league": "Premier League",
-        "title": "Bournemouth vs Manchester City",
-        "home_team": "Bournemouth",
-        "away_team": "Manchester City",
-        "home_logo": "https://xscore808.com/team/Bournemouth.gif",
-        "away_logo": "https://xscore808.com/team/manchestercity.png",
-        "time": "Tue 19 May, 18:30",
-        "link": "https://xscore808.com/match/bournemouth-vs-manchester-city/78957945/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "Premier League",
-        "title": "Chelsea vs Tottenham",
-        "home_team": "Chelsea",
-        "away_team": "Tottenham",
-        "home_logo": "https://xscore808.com/team/chelsea.png",
-        "away_logo": "https://xscore808.com/team/tottenham.png",
-        "time": "Tue 19 May, 19:15",
-        "link": "https://xscore808.com/match/chelsea-vs-tottenham/78957946/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
         "league": "UEFA Europa League",
         "title": "Freiburg vs Aston Villa",
         "home_team": "Freiburg",
@@ -94,30 +70,6 @@
         "link": "https://xscore808.com/match/psg-vs-arsenal/78957915/",
         "is_live": true,
         "is_featured": true
-    },
-    {
-        "league": "Premier League",
-        "title": "Bournemouth vs Manchester City",
-        "home_team": "Bournemouth",
-        "away_team": "Manchester City",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-19 18:30",
-        "link": "https://xscore808.com/match/bournemouth-vs-manchester-city/78957945/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Premier League",
-        "title": "Chelsea vs Tottenham",
-        "home_team": "Chelsea",
-        "away_team": "Tottenham",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-19 19:15",
-        "link": "https://xscore808.com/match/chelsea-vs-tottenham/78957946/",
-        "is_live": true,
-        "is_featured": false
     },
     {
         "league": "UEFA Europa League",
@@ -272,6 +224,30 @@
         "away_logo": "",
         "time": "06-13 19:00",
         "link": "https://xscore808.com/match/qatar-vs-switzerland/78956399/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Brazil vs Morocco",
+        "home_team": "Brazil",
+        "away_team": "Morocco",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-13 22:00",
+        "link": "https://xscore808.com/match/brazil-vs-morocco/78956397/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Haiti vs Scotland",
+        "home_team": "Haiti",
+        "away_team": "Scotland",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-14 01:00",
+        "link": "https://xscore808.com/match/haiti-vs-scotland/78956400/",
         "is_live": true,
         "is_featured": false
     }
