@@ -1,17 +1,5 @@
 [
     {
-        "league": "UEFA Europa League",
-        "title": "Freiburg vs Aston Villa",
-        "home_team": "Freiburg",
-        "away_team": "Aston Villa",
-        "home_logo": "https://xscore808.com/team/freiburg.png",
-        "away_logo": "https://xscore808.com/team/astonvilla.png",
-        "time": "Wed 20 May, 19:00",
-        "link": "https://xscore808.com/match/freiburg-vs-aston-villa/78957920/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
         "league": "Saudi Pro League",
         "title": "Al-Nassr vs Damac",
         "home_team": "Al-Nassr",
@@ -70,18 +58,6 @@
         "link": "https://xscore808.com/match/psg-vs-arsenal/78957915/",
         "is_live": true,
         "is_featured": true
-    },
-    {
-        "league": "UEFA Europa League",
-        "title": "Freiburg vs Aston Villa",
-        "home_team": "Freiburg",
-        "away_team": "Aston Villa",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-20 19:00",
-        "link": "https://xscore808.com/match/freiburg-vs-aston-villa/78957920/",
-        "is_live": true,
-        "is_featured": false
     },
     {
         "league": "Saudi Pro League",
@@ -248,6 +224,18 @@
         "away_logo": "",
         "time": "06-14 01:00",
         "link": "https://xscore808.com/match/haiti-vs-scotland/78956400/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Australia vs Turkey",
+        "home_team": "Australia",
+        "away_team": "Turkey",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-14 04:00",
+        "link": "https://xscore808.com/match/australia-vs-turkey/78957598/",
         "is_live": true,
         "is_featured": false
     }
