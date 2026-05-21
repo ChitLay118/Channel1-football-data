@@ -264,6 +264,18 @@
         "is_featured": false
     },
     {
+        "league": "Int. Friendly",
+        "title": "Mexico vs Ghana",
+        "home_team": "Mexico",
+        "away_team": "Ghana",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "05-23 02:00",
+        "link": "https://xscore808.com/match/mexico-vs-ghana/78958031/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
         "league": "English Championship",
         "title": "Hull City vs Middlesbrough",
         "home_team": "Hull City",
@@ -356,18 +368,6 @@
         "away_logo": "",
         "time": "05-23 19:00",
         "link": "https://xscore808.com/match/alaves-vs-rayo-vallecano/78958010/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "La Liga",
-        "title": "Girona vs Elche",
-        "home_team": "Girona",
-        "away_team": "Elche",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-23 19:00",
-        "link": "https://xscore808.com/match/girona-vs-elche/78958011/",
         "is_live": true,
         "is_featured": false
     }
