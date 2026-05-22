@@ -12,6 +12,18 @@
         "is_featured": true
     },
     {
+        "league": "Coupe de France",
+        "title": "Lens vs Nice",
+        "home_team": "Lens",
+        "away_team": "Nice",
+        "home_logo": "https://xscore808.com/team/Lens.png",
+        "away_logo": "https://xscore808.com/team/Nice.png",
+        "time": "Fri 22 May, 19:00",
+        "link": "https://xscore808.com/match/lens-vs-nice/78958029/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
         "league": "English Championship",
         "title": "Hull City vs Middlesbrough",
         "home_team": "Hull City",
