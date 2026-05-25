@@ -36,18 +36,6 @@
         "is_featured": true
     },
     {
-        "league": "MLS League",
-        "title": "Inter Miami vs Philadelphia Union",
-        "home_team": "Inter Miami",
-        "away_team": "Philadelphia Union",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-24 23:00",
-        "link": "https://xscore808.com/match/inter-miami-vs-philadelphia-union/78958030/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "Bundesliga",
         "title": "Paderborn 07 vs Wolfsburg",
         "home_team": "Paderborn 07",
@@ -212,6 +200,18 @@
         "away_logo": "",
         "time": "06-14 23:00",
         "link": "https://xscore808.com/match/coote-divoire-vs-ecuador/78956403/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Sweden vs Tunisia",
+        "home_team": "Sweden",
+        "away_team": "Tunisia",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-15 02:00",
+        "link": "https://xscore808.com/match/sweden-vs-tunisia/78957599/",
         "is_live": true,
         "is_featured": false
     }
