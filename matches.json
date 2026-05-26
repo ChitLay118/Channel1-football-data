@@ -61,18 +61,6 @@
     },
     {
         "league": "Int. Friendly",
-        "title": "Morocco vs Burundi",
-        "home_team": "Morocco",
-        "away_team": "Burundi",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-26 13:00",
-        "link": "https://xscore808.com/match/morocco-vs-burundi/78958033/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Nigeria vs Zimbabwe",
         "home_team": "Nigeria",
         "away_team": "Zimbabwe",
@@ -145,8 +133,8 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "United States vs Paraguay",
-        "home_team": "United States",
+        "title": "USA vs Paraguay",
+        "home_team": "USA",
         "away_team": "Paraguay",
         "home_logo": "",
         "away_logo": "",
@@ -236,6 +224,18 @@
         "away_logo": "",
         "time": "06-14 23:00",
         "link": "https://xscore808.com/match/coote-divoire-vs-ecuador/78956403/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Sweden vs Tunisia",
+        "home_team": "Sweden",
+        "away_team": "Tunisia",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-15 02:00",
+        "link": "https://xscore808.com/match/sweden-vs-tunisia/78957599/",
         "is_live": true,
         "is_featured": false
     }
