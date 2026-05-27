@@ -60,18 +60,6 @@
         "is_featured": true
     },
     {
-        "league": "Int. Friendly",
-        "title": "Nigeria vs Zimbabwe",
-        "home_team": "Nigeria",
-        "away_team": "Zimbabwe",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-26 18:30",
-        "link": "https://xscore808.com/match/nigeria-vs-zimbabwe/78958032/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "UEFA Conference League",
         "title": "Crystal Palace vs Rayo Vallecano",
         "home_team": "Crystal Palace",
@@ -236,6 +224,18 @@
         "away_logo": "",
         "time": "06-15 02:00",
         "link": "https://xscore808.com/match/sweden-vs-tunisia/78957599/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Spain vs Cabo Verde",
+        "home_team": "Spain",
+        "away_team": "Cabo Verde",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-15 16:00",
+        "link": "https://xscore808.com/match/spain-vs-cape-verde/78956404/",
         "is_live": true,
         "is_featured": false
     }
