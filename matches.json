@@ -49,30 +49,6 @@
     },
     {
         "league": "Int. Friendly",
-        "title": "Egypt vs Russia",
-        "home_team": "Egypt",
-        "away_team": "Russia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-28 18:00",
-        "link": "https://xscore808.com/match/egypt-vs-russia/78958082/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Ireland vs Qatar",
-        "home_team": "Ireland",
-        "away_team": "Qatar",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-28 18:45",
-        "link": "https://xscore808.com/match/ireland-vs-qatar/78958083/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Iran vs Gambia",
         "home_team": "Iran",
         "away_team": "Gambia",
@@ -224,6 +200,30 @@
         "away_logo": "",
         "time": "06-14 01:00",
         "link": "https://xscore808.com/match/haiti-vs-scotland/78956400/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Australia vs Turkey",
+        "home_team": "Australia",
+        "away_team": "Turkey",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-14 04:00",
+        "link": "https://xscore808.com/match/australia-vs-turkey/78957598/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Germany vs Curacao",
+        "home_team": "Germany",
+        "away_team": "Curacao",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-14 17:00",
+        "link": "https://xscore808.com/match/germany-vs-curacao/78956401/",
         "is_live": true,
         "is_featured": false
     }
