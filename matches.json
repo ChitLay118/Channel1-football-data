@@ -72,18 +72,6 @@
         "is_featured": true
     },
     {
-        "league": "Int. Friendly",
-        "title": "Scotland vs Curacao",
-        "home_team": "Scotland",
-        "away_team": "Curacao",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-30 12:00",
-        "link": "https://xscore808.com/match/scotland-vs-curacao/78958088/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "UEFA Champions League",
         "title": "PSG vs Arsenal",
         "home_team": "PSG",
@@ -248,6 +236,18 @@
         "away_logo": "",
         "time": "06-11 19:00",
         "link": "https://xscore808.com/match/mexico-vs-south-africa/78956396/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "South Korea vs Czech Republic",
+        "home_team": "South Korea",
+        "away_team": "Czech Republic",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-12 02:00",
+        "link": "https://xscore808.com/match/south-korea-vs-czech/78957596/",
         "is_live": true,
         "is_featured": false
     }
