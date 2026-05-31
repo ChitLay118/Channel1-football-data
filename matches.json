@@ -61,42 +61,6 @@
     },
     {
         "league": "Int. Friendly",
-        "title": "Ecuador vs Saudi Arabia",
-        "home_team": "Ecuador",
-        "away_team": "Saudi Arabia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-30 23:30",
-        "link": "https://xscore808.com/match/ecuador-vs-saudi-arabia/78958090/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "South Korea vs Trinidad and Tobago",
-        "home_team": "South Korea",
-        "away_team": "Trinidad and Tobago",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-31 01:00",
-        "link": "https://xscore808.com/match/south-korea-vs-trinidad-and-tobago/78958091/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Mexico vs Australia",
-        "home_team": "Mexico",
-        "away_team": "Australia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "05-31 02:00",
-        "link": "https://xscore808.com/match/mexico-vs-australia/78958092/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Japan vs Iceland",
         "home_team": "Japan",
         "away_team": "Iceland",
@@ -236,6 +200,42 @@
         "away_logo": "",
         "time": "06-13 01:00",
         "link": "https://xscore808.com/match/usa-vs-paraguay/78956398/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Qatar vs Switzerland",
+        "home_team": "Qatar",
+        "away_team": "Switzerland",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-13 19:00",
+        "link": "https://xscore808.com/match/qatar-vs-switzerland/78956399/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Brazil vs Morocco",
+        "home_team": "Brazil",
+        "away_team": "Morocco",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-13 22:00",
+        "link": "https://xscore808.com/match/brazil-vs-morocco/78956397/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Haiti vs Scotland",
+        "home_team": "Haiti",
+        "away_team": "Scotland",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-14 01:00",
+        "link": "https://xscore808.com/match/haiti-vs-scotland/78956400/",
         "is_live": true,
         "is_featured": false
     }
