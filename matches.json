@@ -73,18 +73,6 @@
     },
     {
         "league": "Int. Friendly",
-        "title": "Haiti vs New Zealand",
-        "home_team": "Haiti",
-        "away_team": "New Zealand",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-03 00:00",
-        "link": "https://xscore808.com/match/haiti-vs-new-zealand/78958110/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Albania vs Israel",
         "home_team": "Albania",
         "away_team": "Israel",
@@ -248,6 +236,18 @@
         "away_logo": "",
         "time": "06-11 19:00",
         "link": "https://xscore808.com/match/mexico-vs-south-africa/78956396/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "South Korea vs Czech Republic",
+        "home_team": "South Korea",
+        "away_team": "Czech Republic",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-12 02:00",
+        "link": "https://xscore808.com/match/south-korea-vs-czech/78957596/",
         "is_live": true,
         "is_featured": false
     }
