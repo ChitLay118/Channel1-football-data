@@ -1,18 +1,6 @@
 [
     {
         "league": "Int. Friendly",
-        "title": "Croatia vs Belgium",
-        "home_team": "Croatia",
-        "away_team": "Belgium",
-        "home_logo": "https://xscore808.com/team/Croatia.png",
-        "away_logo": "https://xscore808.com/team/Bi.png",
-        "time": "Tue 2 Jun, 16:00",
-        "link": "https://xscore808.com/match/croatia-vs-belgium/78958106/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Netherlands vs Algeria",
         "home_team": "Netherlands",
         "away_team": "Algeria",
@@ -82,54 +70,6 @@
         "link": "https://xscore808.com/match/netherlands-vs-japan/78956402/",
         "is_live": true,
         "is_featured": true
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Croatia vs Belgium",
-        "home_team": "Croatia",
-        "away_team": "Belgium",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-02 16:00",
-        "link": "https://xscore808.com/match/croatia-vs-belgium/78958106/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Morocco vs Madagascar",
-        "home_team": "Morocco",
-        "away_team": "Madagascar",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-02 17:00",
-        "link": "https://xscore808.com/match/morocco-vs-madagascar/78958107/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Georgia vs Romania",
-        "home_team": "Georgia",
-        "away_team": "Romania",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-02 17:00",
-        "link": "https://xscore808.com/match/georgia-vs-romania/78958108/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Wales vs Ghana",
-        "home_team": "Wales",
-        "away_team": "Ghana",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-02 18:45",
-        "link": "https://xscore808.com/match/wales-vs-ghana/78958109/",
-        "is_live": true,
-        "is_featured": false
     },
     {
         "league": "Int. Friendly",
@@ -260,6 +200,54 @@
         "away_logo": "",
         "time": "06-04 19:00",
         "link": "https://xscore808.com/match/spain-vs-iraq/78958120/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "France vs Côte d'Ivoire",
+        "home_team": "France",
+        "away_team": "Côte d'Ivoire",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-04 19:00",
+        "link": "https://xscore808.com/match/france-vs-coote-divoire/78958121/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "Czech Republic vs Guatemala",
+        "home_team": "Czech Republic",
+        "away_team": "Guatemala",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-05 00:00",
+        "link": "https://xscore808.com/match/czech-vs-guatemala/78958122/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "Mexico vs Serbia",
+        "home_team": "Mexico",
+        "away_team": "Serbia",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-05 02:00",
+        "link": "https://xscore808.com/match/mexico-vs-serbia/78958123/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Mexico vs South Africa",
+        "home_team": "Mexico",
+        "away_team": "South Africa",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-11 19:00",
+        "link": "https://xscore808.com/match/mexico-vs-south-africa/78956396/",
         "is_live": true,
         "is_featured": false
     }
