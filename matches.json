@@ -13,6 +13,18 @@
     },
     {
         "league": "Int. Friendly",
+        "title": "Luxembourg vs Italy",
+        "home_team": "Luxembourg",
+        "away_team": "Italy",
+        "home_logo": "https://xscore808.com/team/Luxembourg.png",
+        "away_logo": "https://xscore808.com/team/Italy.png",
+        "time": "Wed 3 Jun, 18:45",
+        "link": "https://xscore808.com/match/luxembourg-vs-italy/78958115/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "Int. Friendly",
         "title": "Spain vs Iraq",
         "home_team": "Spain",
         "away_team": "Iraq",
