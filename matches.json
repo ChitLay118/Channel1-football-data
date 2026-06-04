@@ -18,7 +18,7 @@
         "away_team": "Côte d'Ivoire",
         "home_logo": "https://xscore808.com/team/Phap.png",
         "away_logo": "https://xscore808.com/team/Bobiennga.png",
-        "time": "Thu 4 Jun, 19:00",
+        "time": "Thu 4 Jun, 19:10",
         "link": "https://xscore808.com/match/france-vs-coote-divoire/78958121/",
         "is_live": true,
         "is_featured": true
@@ -109,30 +109,6 @@
     },
     {
         "league": "Int. Friendly",
-        "title": "Panama vs Dominican Republic",
-        "home_team": "Panama",
-        "away_team": "Dominican Republic",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-04 00:45",
-        "link": "https://xscore808.com/match/panama-vs-dominican-republic/78958116/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "South Korea vs El Salvador",
-        "home_team": "South Korea",
-        "away_team": "El Salvador",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-04 01:00",
-        "link": "https://xscore808.com/match/south-korea-vs-el-salvador/78958117/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Lesotho vs Kenya",
         "home_team": "Lesotho",
         "away_team": "Kenya",
@@ -186,7 +162,7 @@
         "away_team": "Côte d'Ivoire",
         "home_logo": "",
         "away_logo": "",
-        "time": "06-04 19:00",
+        "time": "06-04 19:10",
         "link": "https://xscore808.com/match/france-vs-coote-divoire/78958121/",
         "is_live": true,
         "is_featured": false
@@ -284,6 +260,30 @@
         "away_logo": "",
         "time": "06-06 17:45",
         "link": "https://xscore808.com/match/portugal-vs-chile/78958130/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "Romania vs Wales",
+        "home_team": "Romania",
+        "away_team": "Wales",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-06 17:45",
+        "link": "https://xscore808.com/match/romania-vs-wales/78958131/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "USA vs Germany",
+        "home_team": "USA",
+        "away_team": "Germany",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-06 18:30",
+        "link": "https://xscore808.com/match/usa-vs-germany/78958132/",
         "is_live": true,
         "is_featured": false
     }
