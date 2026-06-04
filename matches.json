@@ -1,30 +1,6 @@
 [
     {
         "league": "Int. Friendly",
-        "title": "Spain vs Iraq",
-        "home_team": "Spain",
-        "away_team": "Iraq",
-        "home_logo": "https://xscore808.com/team/Taybannha.png",
-        "away_logo": "https://xscore808.com/team/Iraq.png",
-        "time": "Thu 4 Jun, 19:00",
-        "link": "https://xscore808.com/match/spain-vs-iraq/78958120/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "France vs Côte d'Ivoire",
-        "home_team": "France",
-        "away_team": "Côte d'Ivoire",
-        "home_logo": "https://xscore808.com/team/Phap.png",
-        "away_logo": "https://xscore808.com/team/Bobiennga.png",
-        "time": "Thu 4 Jun, 19:10",
-        "link": "https://xscore808.com/match/france-vs-coote-divoire/78958121/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Portugal vs Chile",
         "home_team": "Portugal",
         "away_team": "Chile",
@@ -121,54 +97,6 @@
     },
     {
         "league": "Int. Friendly",
-        "title": "Northern Ireland vs Guinea",
-        "home_team": "Northern Ireland",
-        "away_team": "Guinea",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-04 16:00",
-        "link": "https://xscore808.com/match/northern-ireland-vs-guinea/78958118/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Sweden vs Greece",
-        "home_team": "Sweden",
-        "away_team": "Greece",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-04 17:00",
-        "link": "https://xscore808.com/match/sweden-vs-greece/78958119/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Spain vs Iraq",
-        "home_team": "Spain",
-        "away_team": "Iraq",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-04 19:00",
-        "link": "https://xscore808.com/match/spain-vs-iraq/78958120/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "France vs Côte d'Ivoire",
-        "home_team": "France",
-        "away_team": "Côte d'Ivoire",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-04 19:10",
-        "link": "https://xscore808.com/match/france-vs-coote-divoire/78958121/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Czech Republic vs Guatemala",
         "home_team": "Czech Republic",
         "away_team": "Guatemala",
@@ -205,6 +133,18 @@
     },
     {
         "league": "Int. Friendly",
+        "title": "Paraguay vs Nicaragua",
+        "home_team": "Paraguay",
+        "away_team": "Nicaragua",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-05 22:15",
+        "link": "https://xscore808.com/match/paraguay-vs-nicaragua/78958126/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
         "title": "Canada vs Ireland",
         "home_team": "Canada",
         "away_team": "Ireland",
@@ -224,18 +164,6 @@
         "away_logo": "",
         "time": "06-06 00:00",
         "link": "https://xscore808.com/match/haiti-vs-peru/78958129/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Paraguay vs Nicaragua",
-        "home_team": "Paraguay",
-        "away_team": "Nicaragua",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-06 01:15",
-        "link": "https://xscore808.com/match/paraguay-vs-nicaragua/78958126/",
         "is_live": true,
         "is_featured": false
     },
@@ -296,6 +224,54 @@
         "away_logo": "",
         "time": "06-06 19:00",
         "link": "https://xscore808.com/match/australia-vs-switzerland/78958133/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "Panama vs Bosnia and Herzegovina",
+        "home_team": "Panama",
+        "away_team": "Bosnia and Herzegovina",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-06 19:00",
+        "link": "https://xscore808.com/match/panama-vs-bosnia-herzegovina/78958134/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "Bolivia vs Scotland",
+        "home_team": "Bolivia",
+        "away_team": "Scotland",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-06 20:00",
+        "link": "https://xscore808.com/match/bolivia-vs-scotland/78958135/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "England vs New Zealand",
+        "home_team": "England",
+        "away_team": "New Zealand",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-06 20:00",
+        "link": "https://xscore808.com/match/england-vs-new-zealand/78958136/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "Qatar vs El Salvador",
+        "home_team": "Qatar",
+        "away_team": "El Salvador",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-06 20:00",
+        "link": "https://xscore808.com/match/qatar-vs-el-salvador/78958137/",
         "is_live": true,
         "is_featured": false
     }
