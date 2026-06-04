@@ -72,6 +72,18 @@
         "is_featured": true
     },
     {
+        "league": "Int. Friendly",
+        "title": "Argentina vs Honduras",
+        "home_team": "Argentina",
+        "away_team": "Honduras",
+        "home_logo": "https://xscore808.com/team/Argentina.png",
+        "away_logo": "https://xscore808.com/team/Honduras.png",
+        "time": "Sun 7 Jun, 00:00",
+        "link": "https://xscore808.com/match/argentina-vs-honduras/78958140/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
         "league": "FIFA World Cup",
         "title": "Mexico vs South Africa",
         "home_team": "Mexico",
@@ -106,18 +118,6 @@
         "link": "https://xscore808.com/match/netherlands-vs-japan/78956402/",
         "is_live": true,
         "is_featured": true
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Lesotho vs Kenya",
-        "home_team": "Lesotho",
-        "away_team": "Kenya",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-04 13:00",
-        "link": "https://xscore808.com/match/lesotho-vs-kenya/78958124/",
-        "is_live": true,
-        "is_featured": false
     },
     {
         "league": "Int. Friendly",
@@ -284,6 +284,18 @@
         "away_logo": "",
         "time": "06-06 18:30",
         "link": "https://xscore808.com/match/usa-vs-germany/78958132/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "Australia vs Switzerland",
+        "home_team": "Australia",
+        "away_team": "Switzerland",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-06 19:00",
+        "link": "https://xscore808.com/match/australia-vs-switzerland/78958133/",
         "is_live": true,
         "is_featured": false
     }
