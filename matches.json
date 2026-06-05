@@ -97,18 +97,6 @@
     },
     {
         "league": "Int. Friendly",
-        "title": "Indonesia vs Oman",
-        "home_team": "Indonesia",
-        "away_team": "Oman",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-05 13:00",
-        "link": "https://xscore808.com/match/indonesia-vs-oman/78958125/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Paraguay vs Nicaragua",
         "home_team": "Paraguay",
         "away_team": "Nicaragua",
@@ -272,6 +260,18 @@
         "away_logo": "",
         "time": "06-06 23:00",
         "link": "https://xscore808.com/match/turkey-vs-venezuela/78958139/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "Argentina vs Honduras",
+        "home_team": "Argentina",
+        "away_team": "Honduras",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-07 00:00",
+        "link": "https://xscore808.com/match/argentina-vs-honduras/78958140/",
         "is_live": true,
         "is_featured": false
     }
