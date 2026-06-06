@@ -97,18 +97,6 @@
     },
     {
         "league": "Int. Friendly",
-        "title": "Belgium vs Tunisia",
-        "home_team": "Belgium",
-        "away_team": "Tunisia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-06 13:00",
-        "link": "https://xscore808.com/match/belgium-vs-tunisia/78958128/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Portugal vs Chile",
         "home_team": "Portugal",
         "away_team": "Chile",
@@ -272,6 +260,18 @@
         "away_logo": "",
         "time": "06-12 02:00",
         "link": "https://xscore808.com/match/south-korea-vs-czech/78957596/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Canada vs Bosnia and Herzegovina",
+        "home_team": "Canada",
+        "away_team": "Bosnia and Herzegovina",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-12 19:00",
+        "link": "https://xscore808.com/match/canada-vs-bosnia-herzegovina/78957597/",
         "is_live": true,
         "is_featured": false
     }
