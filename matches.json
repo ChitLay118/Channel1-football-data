@@ -97,42 +97,6 @@
     },
     {
         "league": "Int. Friendly",
-        "title": "Paraguay vs Nicaragua",
-        "home_team": "Paraguay",
-        "away_team": "Nicaragua",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-05 22:15",
-        "link": "https://xscore808.com/match/paraguay-vs-nicaragua/78958126/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Canada vs Ireland",
-        "home_team": "Canada",
-        "away_team": "Ireland",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-05 23:30",
-        "link": "https://xscore808.com/match/canada-vs-ireland/78958127/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Haiti vs Peru",
-        "home_team": "Haiti",
-        "away_team": "Peru",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-06 00:00",
-        "link": "https://xscore808.com/match/haiti-vs-peru/78958129/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Belgium vs Tunisia",
         "home_team": "Belgium",
         "away_team": "Tunisia",
@@ -272,6 +236,42 @@
         "away_logo": "",
         "time": "06-07 00:00",
         "link": "https://xscore808.com/match/argentina-vs-honduras/78958140/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Int. Friendly",
+        "title": "Curacao vs Aruba",
+        "home_team": "Curacao",
+        "away_team": "Aruba",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-07 00:00",
+        "link": "https://xscore808.com/match/curacao-vs-aruba/78958141/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Mexico vs South Africa",
+        "home_team": "Mexico",
+        "away_team": "South Africa",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-11 19:00",
+        "link": "https://xscore808.com/match/mexico-vs-south-africa/78956396/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "South Korea vs Czech Republic",
+        "home_team": "South Korea",
+        "away_team": "Czech Republic",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-12 02:00",
+        "link": "https://xscore808.com/match/south-korea-vs-czech/78957596/",
         "is_live": true,
         "is_featured": false
     }
