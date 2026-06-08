@@ -1,6 +1,18 @@
 [
     {
         "league": "Int. Friendly",
+        "title": "Netherlands vs Uzbekistan",
+        "home_team": "Netherlands",
+        "away_team": "Uzbekistan",
+        "home_logo": "https://xscore808.com/team/Halan.png",
+        "away_logo": "https://xscore808.com/team/Uzbekistan.png",
+        "time": "Mon 8 Jun, 18:45",
+        "link": "https://xscore808.com/match/netherlands-vs-uzbekistan/78958148/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "Int. Friendly",
         "title": "France vs Northern Ireland",
         "home_team": "France",
         "away_team": "Northern Ireland",
