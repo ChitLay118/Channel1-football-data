@@ -1,18 +1,6 @@
 [
     {
         "league": "Int. Friendly",
-        "title": "Argentina vs Iceland",
-        "home_team": "Argentina",
-        "away_team": "Iceland",
-        "home_logo": "https://xscore808.com/team/Argentina.png",
-        "away_logo": "https://xscore808.com/team/Iceland.png",
-        "time": "Wed 10 Jun, 01:00",
-        "link": "https://xscore808.com/match/argentina-vs-iceland/78958152/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "Int. Friendly",
         "title": "Portugal vs Nigeria",
         "home_team": "Portugal",
         "away_team": "Nigeria",
@@ -49,6 +37,18 @@
     },
     {
         "league": "FIFA World Cup",
+        "title": "South Korea vs Czech Republic",
+        "home_team": "South Korea",
+        "away_team": "Czech Republic",
+        "home_logo": "https://xscore808.com/team/Hanquoc.png",
+        "away_logo": "https://xscore808.com/team/Czech.png",
+        "time": "Fri 12 Jun, 02:00",
+        "link": "https://xscore808.com/match/south-korea-vs-czech/78957596/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
         "title": "Brazil vs Morocco",
         "home_team": "Brazil",
         "away_team": "Morocco",
@@ -70,42 +70,6 @@
         "link": "https://xscore808.com/match/netherlands-vs-japan/78956402/",
         "is_live": true,
         "is_featured": true
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Saudi Arabia vs Senegal",
-        "home_team": "Saudi Arabia",
-        "away_team": "Senegal",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-09 23:00",
-        "link": "https://xscore808.com/match/saudi-arabia-vs-senegal/78958151/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Argentina vs Iceland",
-        "home_team": "Argentina",
-        "away_team": "Iceland",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-10 01:00",
-        "link": "https://xscore808.com/match/argentina-vs-iceland/78958152/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Iraq vs Venezuela",
-        "home_team": "Iraq",
-        "away_team": "Venezuela",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-10 01:00",
-        "link": "https://xscore808.com/match/iraq-vs-venezuela/78958153/",
-        "is_live": true,
-        "is_featured": false
     },
     {
         "league": "Int. Friendly",
@@ -248,6 +212,42 @@
         "away_logo": "",
         "time": "06-14 20:00",
         "link": "https://xscore808.com/match/netherlands-vs-japan/78956402/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Côte d'Ivoire vs Ecuador",
+        "home_team": "Côte d'Ivoire",
+        "away_team": "Ecuador",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-14 23:00",
+        "link": "https://xscore808.com/match/coote-divoire-vs-ecuador/78956403/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Sweden vs Tunisia",
+        "home_team": "Sweden",
+        "away_team": "Tunisia",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-15 02:00",
+        "link": "https://xscore808.com/match/sweden-vs-tunisia/78957599/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Spain vs Cabo Verde",
+        "home_team": "Spain",
+        "away_team": "Cabo Verde",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-15 16:00",
+        "link": "https://xscore808.com/match/spain-vs-cape-verde/78956404/",
         "is_live": true,
         "is_featured": false
     }
