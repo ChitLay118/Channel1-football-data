@@ -1,29 +1,5 @@
 [
     {
-        "league": "Int. Friendly",
-        "title": "Portugal vs Nigeria",
-        "home_team": "Portugal",
-        "away_team": "Nigeria",
-        "home_logo": "https://xscore808.com/team/Bodaonha.png",
-        "away_logo": "https://xscore808.com/team/Nigeria.png",
-        "time": "Wed 10 Jun, 19:45",
-        "link": "https://xscore808.com/match/portugal-vs-nigeria/78958154/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "England vs Costa Rica",
-        "home_team": "England",
-        "away_team": "Costa Rica",
-        "home_logo": "https://xscore808.com/team/Anh.png",
-        "away_logo": "https://xscore808.com/team/Costa-Rica.png",
-        "time": "Wed 10 Jun, 20:00",
-        "link": "https://xscore808.com/match/england-vs-costa-rica/78958155/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
         "league": "FIFA World Cup",
         "title": "Mexico vs South Africa",
         "home_team": "Mexico",
@@ -70,30 +46,6 @@
         "link": "https://xscore808.com/match/netherlands-vs-japan/78956402/",
         "is_live": true,
         "is_featured": true
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "Portugal vs Nigeria",
-        "home_team": "Portugal",
-        "away_team": "Nigeria",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-10 19:45",
-        "link": "https://xscore808.com/match/portugal-vs-nigeria/78958154/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Int. Friendly",
-        "title": "England vs Costa Rica",
-        "home_team": "England",
-        "away_team": "Costa Rica",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-10 20:00",
-        "link": "https://xscore808.com/match/england-vs-costa-rica/78958155/",
-        "is_live": true,
-        "is_featured": false
     },
     {
         "league": "FIFA World Cup",
@@ -248,6 +200,30 @@
         "away_logo": "",
         "time": "06-15 16:00",
         "link": "https://xscore808.com/match/spain-vs-cape-verde/78956404/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Belgium vs Egypt",
+        "home_team": "Belgium",
+        "away_team": "Egypt",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-15 19:00",
+        "link": "https://xscore808.com/match/belgium-vs-egypt/78956405/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Saudi Arabia vs Uruguay",
+        "home_team": "Saudi Arabia",
+        "away_team": "Uruguay",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-15 22:00",
+        "link": "https://xscore808.com/match/saudi-arabia-vs-uruguay/78956406/",
         "is_live": true,
         "is_featured": false
     }
