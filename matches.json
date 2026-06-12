@@ -61,6 +61,18 @@
     },
     {
         "league": "FIFA World Cup",
+        "title": "Australia vs Turkey",
+        "home_team": "Australia",
+        "away_team": "Turkey",
+        "home_logo": "https://xscore808.com/team/Australia.png",
+        "away_logo": "https://xscore808.com/team/Turkey.png",
+        "time": "Sun 14 Jun, 04:00",
+        "link": "https://xscore808.com/match/australia-vs-turkey/78957598/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
         "title": "Germany vs Curacao",
         "home_team": "Germany",
         "away_team": "Curacao",
@@ -236,18 +248,6 @@
         "away_logo": "https://xscore808.com/team/Saudi-Arabia.png",
         "time": "Sun 21 Jun, 16:00",
         "link": "https://xscore808.com/match/spain-vs-saudi-arabia/78958046/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Belgium vs Iran",
-        "home_team": "Belgium",
-        "away_team": "Iran",
-        "home_logo": "https://xscore808.com/team/Bi.png",
-        "away_logo": "https://xscore808.com/team/Iran.png",
-        "time": "Sun 21 Jun, 19:00",
-        "link": "https://xscore808.com/match/belgium-vs-iran/78958047/",
         "is_live": true,
         "is_featured": true
     },
