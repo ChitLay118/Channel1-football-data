@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "South Korea vs Czech Republic",
-        "home_team": "South Korea",
-        "away_team": "Czech Republic",
-        "home_logo": "https://xscore808.com/team/Hanquoc.png",
-        "away_logo": "https://xscore808.com/team/Czech.png",
-        "time": "Fri 12 Jun, 02:00",
-        "link": "https://xscore808.com/match/south-korea-vs-czech/78957596/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Canada vs Bosnia and Herzegovina",
         "home_team": "Canada",
         "away_team": "Bosnia and Herzegovina",
@@ -56,6 +44,18 @@
         "away_logo": "https://xscore808.com/team/Morocco.png",
         "time": "Sat 13 Jun, 22:00",
         "link": "https://xscore808.com/match/brazil-vs-morocco/78956397/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Haiti vs Scotland",
+        "home_team": "Haiti",
+        "away_team": "Scotland",
+        "home_logo": "https://xscore808.com/team/Haiti.png",
+        "away_logo": "https://xscore808.com/team/Scotland.png",
+        "time": "Sun 14 Jun, 01:00",
+        "link": "https://xscore808.com/match/haiti-vs-scotland/78956400/",
         "is_live": true,
         "is_featured": true
     },
@@ -253,18 +253,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "South Korea vs Czech Republic",
-        "home_team": "South Korea",
-        "away_team": "Czech Republic",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-12 02:00",
-        "link": "https://xscore808.com/match/south-korea-vs-czech/78957596/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Canada vs Bosnia and Herzegovina",
         "home_team": "Canada",
         "away_team": "Bosnia and Herzegovina",
@@ -428,6 +416,18 @@
         "away_logo": "",
         "time": "06-16 01:00",
         "link": "https://xscore808.com/match/iran-vs-new-zealand/78956407/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "France vs Senegal",
+        "home_team": "France",
+        "away_team": "Senegal",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-16 19:00",
+        "link": "https://xscore808.com/match/france-vs-senegal/78956408/",
         "is_live": true,
         "is_featured": false
     }
