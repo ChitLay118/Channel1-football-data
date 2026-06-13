@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Qatar vs Switzerland",
-        "home_team": "Qatar",
-        "away_team": "Switzerland",
-        "home_logo": "https://xscore808.com/team/Qatar.png",
-        "away_logo": "https://xscore808.com/team/Thuysy.png",
-        "time": "Sat 13 Jun, 19:00",
-        "link": "https://xscore808.com/match/qatar-vs-switzerland/78956399/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Brazil vs Morocco",
         "home_team": "Brazil",
         "away_team": "Morocco",
@@ -253,15 +241,15 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Qatar vs Switzerland",
-        "home_team": "Qatar",
-        "away_team": "Switzerland",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-13 19:00",
-        "link": "https://xscore808.com/match/qatar-vs-switzerland/78956399/",
+        "title": "Belgium vs Iran",
+        "home_team": "Belgium",
+        "away_team": "Iran",
+        "home_logo": "https://xscore808.com/team/Bi.png",
+        "away_logo": "https://xscore808.com/team/Iran.png",
+        "time": "Sun 21 Jun, 19:00",
+        "link": "https://xscore808.com/match/belgium-vs-iran/78958047/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -428,6 +416,18 @@
         "away_logo": "",
         "time": "06-17 01:00",
         "link": "https://xscore808.com/match/argentina-vs-algeria/78956409/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Austria vs Jordan",
+        "home_team": "Austria",
+        "away_team": "Jordan",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-17 04:00",
+        "link": "https://xscore808.com/match/austria-vs-jordan/78956410/",
         "is_live": true,
         "is_featured": false
     }
