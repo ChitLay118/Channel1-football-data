@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "USA vs Paraguay",
-        "home_team": "USA",
-        "away_team": "Paraguay",
-        "home_logo": "https://xscore808.com/team/My.png",
-        "away_logo": "https://xscore808.com/team/Paraguay.png",
-        "time": "Sat 13 Jun, 01:00",
-        "link": "https://xscore808.com/match/usa-vs-paraguay/78956398/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Qatar vs Switzerland",
         "home_team": "Qatar",
         "away_team": "Switzerland",
@@ -253,15 +241,15 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "USA vs Paraguay",
-        "home_team": "USA",
-        "away_team": "Paraguay",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-13 01:00",
-        "link": "https://xscore808.com/match/usa-vs-paraguay/78956398/",
+        "title": "Argentina vs Austria",
+        "home_team": "Argentina",
+        "away_team": "Austria",
+        "home_logo": "https://xscore808.com/team/Argentina.png",
+        "away_logo": "https://xscore808.com/team/Austria.png",
+        "time": "Mon 22 Jun, 17:00",
+        "link": "https://xscore808.com/match/argentina-vs-austria/78958050/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -428,6 +416,18 @@
         "away_logo": "",
         "time": "06-16 22:00",
         "link": "https://xscore808.com/match/iraq-vs-noway/78957602/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Argentina vs Algeria",
+        "home_team": "Argentina",
+        "away_team": "Algeria",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-17 01:00",
+        "link": "https://xscore808.com/match/argentina-vs-algeria/78956409/",
         "is_live": true,
         "is_featured": false
     }
