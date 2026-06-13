@@ -73,6 +73,30 @@
     },
     {
         "league": "FIFA World Cup",
+        "title": "Côte d'Ivoire vs Ecuador",
+        "home_team": "Côte d'Ivoire",
+        "away_team": "Ecuador",
+        "home_logo": "https://xscore808.com/team/Bobiennga.png",
+        "away_logo": "https://xscore808.com/team/Ecuador.png",
+        "time": "Sun 14 Jun, 23:00",
+        "link": "https://xscore808.com/match/coote-divoire-vs-ecuador/78956403/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Sweden vs Tunisia",
+        "home_team": "Sweden",
+        "away_team": "Tunisia",
+        "home_logo": "https://xscore808.com/team/Sweden.png",
+        "away_logo": "https://xscore808.com/team/Tunisia.png",
+        "time": "Mon 15 Jun, 02:00",
+        "link": "https://xscore808.com/match/sweden-vs-tunisia/78957599/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
         "title": "Spain vs Cabo Verde",
         "home_team": "Spain",
         "away_team": "Cabo Verde",
@@ -224,30 +248,6 @@
         "away_logo": "https://xscore808.com/team/Saudi-Arabia.png",
         "time": "Sun 21 Jun, 16:00",
         "link": "https://xscore808.com/match/spain-vs-saudi-arabia/78958046/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Belgium vs Iran",
-        "home_team": "Belgium",
-        "away_team": "Iran",
-        "home_logo": "https://xscore808.com/team/Bi.png",
-        "away_logo": "https://xscore808.com/team/Iran.png",
-        "time": "Sun 21 Jun, 19:00",
-        "link": "https://xscore808.com/match/belgium-vs-iran/78958047/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Argentina vs Austria",
-        "home_team": "Argentina",
-        "away_team": "Austria",
-        "home_logo": "https://xscore808.com/team/Argentina.png",
-        "away_logo": "https://xscore808.com/team/Austria.png",
-        "time": "Mon 22 Jun, 17:00",
-        "link": "https://xscore808.com/match/argentina-vs-austria/78958050/",
         "is_live": true,
         "is_featured": true
     },
