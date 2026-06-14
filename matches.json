@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Haiti vs Scotland",
-        "home_team": "Haiti",
-        "away_team": "Scotland",
-        "home_logo": "https://xscore808.com/team/Haiti.png",
-        "away_logo": "https://xscore808.com/team/Scotland.png",
-        "time": "Sun 14 Jun, 01:00",
-        "link": "https://xscore808.com/match/haiti-vs-scotland/78956400/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Australia vs Turkey",
         "home_team": "Australia",
         "away_team": "Turkey",
@@ -253,15 +241,15 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Haiti vs Scotland",
-        "home_team": "Haiti",
-        "away_team": "Scotland",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-14 01:00",
-        "link": "https://xscore808.com/match/haiti-vs-scotland/78956400/",
+        "title": "France vs Iraq",
+        "home_team": "France",
+        "away_team": "Iraq",
+        "home_logo": "https://xscore808.com/team/Phap.png",
+        "away_logo": "https://xscore808.com/team/Iraq.png",
+        "time": "Mon 22 Jun, 21:00",
+        "link": "https://xscore808.com/match/france-vs-iraq/78958051/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -428,6 +416,18 @@
         "away_logo": "",
         "time": "06-17 17:00",
         "link": "https://xscore808.com/match/portugal-vs-congo-dr/78957600/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "England vs Croatia",
+        "home_team": "England",
+        "away_team": "Croatia",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-17 20:00",
+        "link": "https://xscore808.com/match/england-vs-croatia/78956411/",
         "is_live": true,
         "is_featured": false
     }
