@@ -1,30 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Spain vs Cabo Verde",
-        "home_team": "Spain",
-        "away_team": "Cabo Verde",
-        "home_logo": "https://xscore808.com/team/Taybannha.png",
-        "away_logo": "https://xscore808.com/team/Cape_Verde.png",
-        "time": "Mon 15 Jun, 16:00",
-        "link": "https://xscore808.com/match/spain-vs-cape-verde/78956404/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Belgium vs Egypt",
-        "home_team": "Belgium",
-        "away_team": "Egypt",
-        "home_logo": "https://xscore808.com/team/Bi.png",
-        "away_logo": "https://xscore808.com/team/Egypt.png",
-        "time": "Mon 15 Jun, 19:00",
-        "link": "https://xscore808.com/match/belgium-vs-egypt/78956405/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Saudi Arabia vs Uruguay",
         "home_team": "Saudi Arabia",
         "away_team": "Uruguay",
@@ -253,27 +229,27 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Spain vs Cabo Verde",
-        "home_team": "Spain",
-        "away_team": "Cabo Verde",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-15 16:00",
-        "link": "https://xscore808.com/match/spain-vs-cape-verde/78956404/",
+        "title": "Ecuador vs Germany",
+        "home_team": "Ecuador",
+        "away_team": "Germany",
+        "home_logo": "https://xscore808.com/team/Ecuador.png",
+        "away_logo": "https://xscore808.com/team/Germany.png",
+        "time": "Thu 25 Jun, 20:00",
+        "link": "https://xscore808.com/match/ecuador-vs-germany/78958065/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
-        "title": "Belgium vs Egypt",
-        "home_team": "Belgium",
-        "away_team": "Egypt",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-15 19:00",
-        "link": "https://xscore808.com/match/belgium-vs-egypt/78956405/",
+        "title": "Tunisia vs Netherlands",
+        "home_team": "Tunisia",
+        "away_team": "Netherlands",
+        "home_logo": "https://xscore808.com/team/Tunisia.png",
+        "away_logo": "https://xscore808.com/team/Halan.png",
+        "time": "Thu 25 Jun, 23:00",
+        "link": "https://xscore808.com/match/tunisia-vs-netherlands/78958066/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -428,6 +404,30 @@
         "away_logo": "",
         "time": "06-18 22:00",
         "link": "https://xscore808.com/match/canada-vs-qatar/78958036/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Mexico vs South Korea",
+        "home_team": "Mexico",
+        "away_team": "South Korea",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-19 01:00",
+        "link": "https://xscore808.com/match/mexico-vs-south-korea/78958037/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "USA vs Australia",
+        "home_team": "USA",
+        "away_team": "Australia",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-19 19:00",
+        "link": "https://xscore808.com/match/usa-vs-australia/78958038/",
         "is_live": true,
         "is_featured": false
     }
