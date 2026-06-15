@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Côte d'Ivoire vs Ecuador",
-        "home_team": "Côte d'Ivoire",
-        "away_team": "Ecuador",
-        "home_logo": "https://xscore808.com/team/Bobiennga.png",
-        "away_logo": "https://xscore808.com/team/Ecuador.png",
-        "time": "Sun 14 Jun, 23:00",
-        "link": "https://xscore808.com/match/coote-divoire-vs-ecuador/78956403/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Sweden vs Tunisia",
         "home_team": "Sweden",
         "away_team": "Tunisia",
@@ -253,15 +241,15 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Côte d'Ivoire vs Ecuador",
-        "home_team": "Côte d'Ivoire",
-        "away_team": "Ecuador",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-14 23:00",
-        "link": "https://xscore808.com/match/coote-divoire-vs-ecuador/78956403/",
+        "title": "England vs Ghana",
+        "home_team": "England",
+        "away_team": "Ghana",
+        "home_logo": "https://xscore808.com/team/Anh.png",
+        "away_logo": "https://xscore808.com/team/Ghana.png",
+        "time": "Tue 23 Jun, 20:00",
+        "link": "https://xscore808.com/match/england-vs-ghana/78958055/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -428,6 +416,18 @@
         "away_logo": "",
         "time": "06-18 16:00",
         "link": "https://xscore808.com/match/czech-vs-south-africa/78958034/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Switzerland vs Bosnia and Herzegovina",
+        "home_team": "Switzerland",
+        "away_team": "Bosnia and Herzegovina",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-18 19:00",
+        "link": "https://xscore808.com/match/switzerland-vs-bosnia-herzegovina/78958035/",
         "is_live": true,
         "is_featured": false
     }
