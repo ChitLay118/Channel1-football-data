@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Saudi Arabia vs Uruguay",
-        "home_team": "Saudi Arabia",
-        "away_team": "Uruguay",
-        "home_logo": "https://xscore808.com/team/Saudi-Arabia.png",
-        "away_logo": "https://xscore808.com/team/Uruguay.png",
-        "time": "Mon 15 Jun, 22:00",
-        "link": "https://xscore808.com/match/saudi-arabia-vs-uruguay/78956406/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Iran vs New Zealand",
         "home_team": "Iran",
         "away_team": "New Zealand",
@@ -253,15 +241,15 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Saudi Arabia vs Uruguay",
-        "home_team": "Saudi Arabia",
-        "away_team": "Uruguay",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-15 22:00",
-        "link": "https://xscore808.com/match/saudi-arabia-vs-uruguay/78956406/",
+        "title": "Noway vs France",
+        "home_team": "Noway",
+        "away_team": "France",
+        "home_logo": "https://xscore808.com/team/Norway.png",
+        "away_logo": "https://xscore808.com/team/Phap.png",
+        "time": "Fri 26 Jun, 19:00",
+        "link": "https://xscore808.com/match/noway-vs-france/78958070/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -428,6 +416,18 @@
         "away_logo": "",
         "time": "06-19 19:00",
         "link": "https://xscore808.com/match/usa-vs-australia/78958038/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Scotland vs Morocco",
+        "home_team": "Scotland",
+        "away_team": "Morocco",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-19 22:00",
+        "link": "https://xscore808.com/match/scotland-vs-morocco/78958039/",
         "is_live": true,
         "is_featured": false
     }
