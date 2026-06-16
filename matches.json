@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Iran vs New Zealand",
-        "home_team": "Iran",
-        "away_team": "New Zealand",
-        "home_logo": "https://xscore808.com/team/Iran.png",
-        "away_logo": "https://xscore808.com/team/New-Zealand.png",
-        "time": "Tue 16 Jun, 01:00",
-        "link": "https://xscore808.com/match/iran-vs-new-zealand/78956407/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "France vs Senegal",
         "home_team": "France",
         "away_team": "Senegal",
@@ -49,6 +37,18 @@
     },
     {
         "league": "FIFA World Cup",
+        "title": "Austria vs Jordan",
+        "home_team": "Austria",
+        "away_team": "Jordan",
+        "home_logo": "https://xscore808.com/team/Austria.png",
+        "away_logo": "https://xscore808.com/team/Jordan.png",
+        "time": "Wed 17 Jun, 04:00",
+        "link": "https://xscore808.com/match/austria-vs-jordan/78956410/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
         "title": "Portugal vs DR Congo",
         "home_team": "Portugal",
         "away_team": "DR Congo",
@@ -68,6 +68,30 @@
         "away_logo": "https://xscore808.com/team/Croatia.png",
         "time": "Wed 17 Jun, 20:00",
         "link": "https://xscore808.com/match/england-vs-croatia/78956411/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Ghana vs Panama",
+        "home_team": "Ghana",
+        "away_team": "Panama",
+        "home_logo": "https://xscore808.com/team/Ghana.png",
+        "away_logo": "https://xscore808.com/team/Panama.png",
+        "time": "Wed 17 Jun, 23:00",
+        "link": "https://xscore808.com/match/ghana-vs-panama/78956412/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Uzbekistan vs Colombia",
+        "home_team": "Uzbekistan",
+        "away_team": "Colombia",
+        "home_logo": "https://xscore808.com/team/Uzbekistan.png",
+        "away_logo": "https://xscore808.com/team/Colombia.png",
+        "time": "Thu 18 Jun, 02:00",
+        "link": "https://xscore808.com/match/uzbekistan-vs-colombia/78956413/",
         "is_live": true,
         "is_featured": true
     },
@@ -226,42 +250,6 @@
         "link": "https://xscore808.com/match/ecuador-vs-germany/78958065/",
         "is_live": true,
         "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Tunisia vs Netherlands",
-        "home_team": "Tunisia",
-        "away_team": "Netherlands",
-        "home_logo": "https://xscore808.com/team/Tunisia.png",
-        "away_logo": "https://xscore808.com/team/Halan.png",
-        "time": "Thu 25 Jun, 23:00",
-        "link": "https://xscore808.com/match/tunisia-vs-netherlands/78958066/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Noway vs France",
-        "home_team": "Noway",
-        "away_team": "France",
-        "home_logo": "https://xscore808.com/team/Norway.png",
-        "away_logo": "https://xscore808.com/team/Phap.png",
-        "time": "Fri 26 Jun, 19:00",
-        "link": "https://xscore808.com/match/noway-vs-france/78958070/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Iran vs New Zealand",
-        "home_team": "Iran",
-        "away_team": "New Zealand",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-16 01:00",
-        "link": "https://xscore808.com/match/iran-vs-new-zealand/78956407/",
-        "is_live": true,
-        "is_featured": false
     },
     {
         "league": "FIFA World Cup",
@@ -428,6 +416,18 @@
         "away_logo": "",
         "time": "06-19 22:00",
         "link": "https://xscore808.com/match/scotland-vs-morocco/78958039/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Brazil vs Haiti",
+        "home_team": "Brazil",
+        "away_team": "Haiti",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-20 00:30",
+        "link": "https://xscore808.com/match/brazil-vs-haiti/78958040/",
         "is_live": true,
         "is_featured": false
     }
