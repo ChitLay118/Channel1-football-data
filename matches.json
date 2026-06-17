@@ -1,30 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Iraq vs Noway",
-        "home_team": "Iraq",
-        "away_team": "Noway",
-        "home_logo": "https://xscore808.com/team/Iraq.png",
-        "away_logo": "https://xscore808.com/team/Norway.png",
-        "time": "Tue 16 Jun, 22:00",
-        "link": "https://xscore808.com/match/iraq-vs-noway/78957602/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Argentina vs Algeria",
-        "home_team": "Argentina",
-        "away_team": "Algeria",
-        "home_logo": "https://xscore808.com/team/Argentina.png",
-        "away_logo": "https://xscore808.com/team/Algeria.png",
-        "time": "Wed 17 Jun, 01:00",
-        "link": "https://xscore808.com/match/argentina-vs-algeria/78956409/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Austria vs Jordan",
         "home_team": "Austria",
         "away_team": "Jordan",
@@ -253,27 +229,27 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Iraq vs Noway",
-        "home_team": "Iraq",
-        "away_team": "Noway",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-16 22:00",
-        "link": "https://xscore808.com/match/iraq-vs-noway/78957602/",
+        "title": "Noway vs France",
+        "home_team": "Noway",
+        "away_team": "France",
+        "home_logo": "https://xscore808.com/team/Norway.png",
+        "away_logo": "https://xscore808.com/team/Phap.png",
+        "time": "Fri 26 Jun, 19:00",
+        "link": "https://xscore808.com/match/noway-vs-france/78958070/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
-        "title": "Argentina vs Algeria",
-        "home_team": "Argentina",
-        "away_team": "Algeria",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-17 01:00",
-        "link": "https://xscore808.com/match/argentina-vs-algeria/78956409/",
+        "title": "Uruguay vs Spain",
+        "home_team": "Uruguay",
+        "away_team": "Spain",
+        "home_logo": "https://xscore808.com/team/Uruguay.png",
+        "away_logo": "https://xscore808.com/team/Taybannha.png",
+        "time": "Sat 27 Jun, 00:00",
+        "link": "https://xscore808.com/match/uruguay-vs-spain/78958073/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -392,42 +368,6 @@
         "away_logo": "",
         "time": "06-19 19:00",
         "link": "https://xscore808.com/match/usa-vs-australia/78958038/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Scotland vs Morocco",
-        "home_team": "Scotland",
-        "away_team": "Morocco",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-19 22:00",
-        "link": "https://xscore808.com/match/scotland-vs-morocco/78958039/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Brazil vs Haiti",
-        "home_team": "Brazil",
-        "away_team": "Haiti",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-20 00:30",
-        "link": "https://xscore808.com/match/brazil-vs-haiti/78958040/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Turkey vs Paraguay",
-        "home_team": "Turkey",
-        "away_team": "Paraguay",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-20 03:00",
-        "link": "https://xscore808.com/match/turkey-vs-paraguay/78958041/",
         "is_live": true,
         "is_featured": false
     }
