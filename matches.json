@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Austria vs Jordan",
-        "home_team": "Austria",
-        "away_team": "Jordan",
-        "home_logo": "https://xscore808.com/team/Austria.png",
-        "away_logo": "https://xscore808.com/team/Jordan.png",
-        "time": "Wed 17 Jun, 04:00",
-        "link": "https://xscore808.com/match/austria-vs-jordan/78956410/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Portugal vs DR Congo",
         "home_team": "Portugal",
         "away_team": "DR Congo",
@@ -253,15 +241,15 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Austria vs Jordan",
-        "home_team": "Austria",
-        "away_team": "Jordan",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-17 04:00",
-        "link": "https://xscore808.com/match/austria-vs-jordan/78956410/",
+        "title": "New Zealand vs Belgium",
+        "home_team": "New Zealand",
+        "away_team": "Belgium",
+        "home_logo": "https://xscore808.com/team/New-Zealand.png",
+        "away_logo": "https://xscore808.com/team/Bi.png",
+        "time": "Sat 27 Jun, 03:00",
+        "link": "https://xscore808.com/match/new-zealand-vs-belgium/78958074/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -368,6 +356,18 @@
         "away_logo": "",
         "time": "06-19 19:00",
         "link": "https://xscore808.com/match/usa-vs-australia/78958038/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Scotland vs Morocco",
+        "home_team": "Scotland",
+        "away_team": "Morocco",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-19 22:00",
+        "link": "https://xscore808.com/match/scotland-vs-morocco/78958039/",
         "is_live": true,
         "is_featured": false
     }
