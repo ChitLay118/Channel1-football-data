@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "England vs Croatia",
-        "home_team": "England",
-        "away_team": "Croatia",
-        "home_logo": "https://xscore808.com/team/Anh.png",
-        "away_logo": "https://xscore808.com/team/Croatia.png",
-        "time": "Wed 17 Jun, 20:00",
-        "link": "https://xscore808.com/match/england-vs-croatia/78956411/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Ghana vs Panama",
         "home_team": "Ghana",
         "away_team": "Panama",
@@ -32,6 +20,42 @@
         "away_logo": "https://xscore808.com/team/Colombia.png",
         "time": "Thu 18 Jun, 02:00",
         "link": "https://xscore808.com/match/uzbekistan-vs-colombia/78956413/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Czech Republic vs South Africa",
+        "home_team": "Czech Republic",
+        "away_team": "South Africa",
+        "home_logo": "https://xscore808.com/team/Czech.png",
+        "away_logo": "https://xscore808.com/team/nam-phi.png",
+        "time": "Thu 18 Jun, 16:00",
+        "link": "https://xscore808.com/match/czech-vs-south-africa/78958034/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Switzerland vs Bosnia and Herzegovina",
+        "home_team": "Switzerland",
+        "away_team": "Bosnia and Herzegovina",
+        "home_logo": "https://xscore808.com/team/Thuysy.png",
+        "away_logo": "https://xscore808.com/team/Bosnia.png",
+        "time": "Thu 18 Jun, 19:00",
+        "link": "https://xscore808.com/match/switzerland-vs-bosnia-herzegovina/78958035/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Canada vs Qatar",
+        "home_team": "Canada",
+        "away_team": "Qatar",
+        "home_logo": "https://xscore808.com/team/Canada.png",
+        "away_logo": "https://xscore808.com/team/Qatar.png",
+        "time": "Thu 18 Jun, 22:00",
+        "link": "https://xscore808.com/match/canada-vs-qatar/78958036/",
         "is_live": true,
         "is_featured": true
     },
@@ -229,42 +253,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "New Zealand vs Belgium",
-        "home_team": "New Zealand",
-        "away_team": "Belgium",
-        "home_logo": "https://xscore808.com/team/New-Zealand.png",
-        "away_logo": "https://xscore808.com/team/Bi.png",
-        "time": "Sat 27 Jun, 03:00",
-        "link": "https://xscore808.com/match/new-zealand-vs-belgium/78958074/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Panama vs England",
-        "home_team": "Panama",
-        "away_team": "England",
-        "home_logo": "https://xscore808.com/team/Panama.png",
-        "away_logo": "https://xscore808.com/team/Anh.png",
-        "time": "Sat 27 Jun, 21:00",
-        "link": "https://xscore808.com/match/panama-vs-england/78958076/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "England vs Croatia",
-        "home_team": "England",
-        "away_team": "Croatia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-17 20:00",
-        "link": "https://xscore808.com/match/england-vs-croatia/78956411/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Ghana vs Panama",
         "home_team": "Ghana",
         "away_team": "Panama",
@@ -368,6 +356,18 @@
         "away_logo": "",
         "time": "06-20 00:30",
         "link": "https://xscore808.com/match/brazil-vs-haiti/78958040/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Turkey vs Paraguay",
+        "home_team": "Turkey",
+        "away_team": "Paraguay",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-20 03:00",
+        "link": "https://xscore808.com/match/turkey-vs-paraguay/78958041/",
         "is_live": true,
         "is_featured": false
     }
