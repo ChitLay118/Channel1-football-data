@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "USA vs Australia",
-        "home_team": "USA",
-        "away_team": "Australia",
-        "home_logo": "https://xscore808.com/team/My.png",
-        "away_logo": "https://xscore808.com/team/Australia.png",
-        "time": "Fri 19 Jun, 19:00",
-        "link": "https://xscore808.com/match/usa-vs-australia/78958038/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Scotland vs Morocco",
         "home_team": "Scotland",
         "away_team": "Morocco",
@@ -253,18 +241,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "USA vs Australia",
-        "home_team": "USA",
-        "away_team": "Australia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-19 19:00",
-        "link": "https://xscore808.com/match/usa-vs-australia/78958038/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Scotland vs Morocco",
         "home_team": "Scotland",
         "away_team": "Morocco",
@@ -368,6 +344,18 @@
         "away_logo": "",
         "time": "06-21 19:00",
         "link": "https://xscore808.com/match/belgium-vs-iran/78958047/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Uruguay vs Cabo Verde",
+        "home_team": "Uruguay",
+        "away_team": "Cabo Verde",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-21 22:00",
+        "link": "https://xscore808.com/match/uruguay-vs-cape-verde/78958048/",
         "is_live": true,
         "is_featured": false
     }
