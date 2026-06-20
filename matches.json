@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Turkey vs Paraguay",
-        "home_team": "Turkey",
-        "away_team": "Paraguay",
-        "home_logo": "https://xscore808.com/team/Turkey.png",
-        "away_logo": "https://xscore808.com/team/Paraguay.png",
-        "time": "Sat 20 Jun, 03:00",
-        "link": "https://xscore808.com/match/turkey-vs-paraguay/78958041/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Netherlands vs Sweden",
         "home_team": "Netherlands",
         "away_team": "Sweden",
@@ -253,15 +241,15 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Turkey vs Paraguay",
-        "home_team": "Turkey",
-        "away_team": "Paraguay",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-20 03:00",
-        "link": "https://xscore808.com/match/turkey-vs-paraguay/78958041/",
+        "title": "Jordan vs Argentina",
+        "home_team": "Jordan",
+        "away_team": "Argentina",
+        "home_logo": "https://xscore808.com/team/Jordan.png",
+        "away_logo": "https://xscore808.com/team/Argentina.png",
+        "time": "Sun 28 Jun, 02:00",
+        "link": "https://xscore808.com/match/jordan-vs-argentina/78958081/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -368,6 +356,18 @@
         "away_logo": "",
         "time": "06-22 17:00",
         "link": "https://xscore808.com/match/argentina-vs-austria/78958050/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "France vs Iraq",
+        "home_team": "France",
+        "away_team": "Iraq",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-22 21:00",
+        "link": "https://xscore808.com/match/france-vs-iraq/78958051/",
         "is_live": true,
         "is_featured": false
     }
