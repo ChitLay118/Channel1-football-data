@@ -1,30 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Ecuador vs Curacao",
-        "home_team": "Ecuador",
-        "away_team": "Curacao",
-        "home_logo": "https://xscore808.com/team/Ecuador.png",
-        "away_logo": "https://xscore808.com/team/curacao.png",
-        "time": "Sun 21 Jun, 00:00",
-        "link": "https://xscore808.com/match/ecuador-vs-curacao/78958044/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Tunisia vs Japan",
-        "home_team": "Tunisia",
-        "away_team": "Japan",
-        "home_logo": "https://xscore808.com/team/Tunisia.png",
-        "away_logo": "https://xscore808.com/team/Nhat.png",
-        "time": "Sun 21 Jun, 04:00",
-        "link": "https://xscore808.com/match/tunisia-vs-japan/78958045/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Spain vs Saudi Arabia",
         "home_team": "Spain",
         "away_team": "Saudi Arabia",
@@ -229,30 +205,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Ecuador vs Curacao",
-        "home_team": "Ecuador",
-        "away_team": "Curacao",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-21 00:00",
-        "link": "https://xscore808.com/match/ecuador-vs-curacao/78958044/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Tunisia vs Japan",
-        "home_team": "Tunisia",
-        "away_team": "Japan",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-21 04:00",
-        "link": "https://xscore808.com/match/tunisia-vs-japan/78958045/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Spain vs Saudi Arabia",
         "home_team": "Spain",
         "away_team": "Saudi Arabia",
@@ -344,6 +296,30 @@
         "away_logo": "",
         "time": "06-23 03:00",
         "link": "https://xscore808.com/match/jordan-vs-algeria/78958053/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Portugal vs Uzbekistan",
+        "home_team": "Portugal",
+        "away_team": "Uzbekistan",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-23 17:00",
+        "link": "https://xscore808.com/match/portugal-vs-uzbekistan/78958054/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "England vs Ghana",
+        "home_team": "England",
+        "away_team": "Ghana",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-23 20:00",
+        "link": "https://xscore808.com/match/england-vs-ghana/78958055/",
         "is_live": true,
         "is_featured": false
     }
