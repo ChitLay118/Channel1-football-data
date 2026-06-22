@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "New Zealand vs Egypt",
-        "home_team": "New Zealand",
-        "away_team": "Egypt",
-        "home_logo": "https://xscore808.com/team/New-Zealand.png",
-        "away_logo": "https://xscore808.com/team/Egypt.png",
-        "time": "Mon 22 Jun, 01:00",
-        "link": "https://xscore808.com/match/new-zealand-vs-egypt/78958049/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Argentina vs Austria",
         "home_team": "Argentina",
         "away_team": "Austria",
@@ -80,6 +68,30 @@
         "away_logo": "https://xscore808.com/team/Ghana.png",
         "time": "Tue 23 Jun, 20:00",
         "link": "https://xscore808.com/match/england-vs-ghana/78958055/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Panama vs Croatia",
+        "home_team": "Panama",
+        "away_team": "Croatia",
+        "home_logo": "https://xscore808.com/team/Panama.png",
+        "away_logo": "https://xscore808.com/team/Croatia.png",
+        "time": "Tue 23 Jun, 23:00",
+        "link": "https://xscore808.com/match/panama-vs-croatia/78958056/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Colombia vs DR Congo",
+        "home_team": "Colombia",
+        "away_team": "DR Congo",
+        "home_logo": "https://xscore808.com/team/Colombia.png",
+        "away_logo": "https://xscore808.com/team/Congo_DR.png",
+        "time": "Wed 24 Jun, 02:00",
+        "link": "https://xscore808.com/match/colombia-vs-congo-dr/78958057/",
         "is_live": true,
         "is_featured": true
     },
@@ -193,18 +205,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "New Zealand vs Egypt",
-        "home_team": "New Zealand",
-        "away_team": "Egypt",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-22 01:00",
-        "link": "https://xscore808.com/match/new-zealand-vs-egypt/78958049/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Argentina vs Austria",
         "home_team": "Argentina",
         "away_team": "Austria",
@@ -308,6 +308,18 @@
         "away_logo": "",
         "time": "06-24 19:00",
         "link": "https://xscore808.com/match/switzerland-vs-canada/78958058/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Bosnia and Herzegovina vs Qatar",
+        "home_team": "Bosnia and Herzegovina",
+        "away_team": "Qatar",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-24 19:00",
+        "link": "https://xscore808.com/match/bosnia-herzegovina-vs-qatar/78958059/",
         "is_live": true,
         "is_featured": false
     }
