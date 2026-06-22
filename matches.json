@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Uruguay vs Cabo Verde",
-        "home_team": "Uruguay",
-        "away_team": "Cabo Verde",
-        "home_logo": "https://xscore808.com/team/Uruguay.png",
-        "away_logo": "https://xscore808.com/team/Cape_Verde.png",
-        "time": "Sun 21 Jun, 22:00",
-        "link": "https://xscore808.com/match/uruguay-vs-cape-verde/78958048/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "New Zealand vs Egypt",
         "home_team": "New Zealand",
         "away_team": "Egypt",
@@ -44,6 +32,30 @@
         "away_logo": "https://xscore808.com/team/Iraq.png",
         "time": "Mon 22 Jun, 21:00",
         "link": "https://xscore808.com/match/france-vs-iraq/78958051/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Noway vs Senegal",
+        "home_team": "Noway",
+        "away_team": "Senegal",
+        "home_logo": "https://xscore808.com/team/Norway.png",
+        "away_logo": "https://xscore808.com/team/Senegal.png",
+        "time": "Tue 23 Jun, 00:00",
+        "link": "https://xscore808.com/match/noway-vs-senegal/78958052/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Jordan vs Algeria",
+        "home_team": "Jordan",
+        "away_team": "Algeria",
+        "home_logo": "https://xscore808.com/team/Jordan.png",
+        "away_logo": "https://xscore808.com/team/Algeria.png",
+        "time": "Tue 23 Jun, 03:00",
+        "link": "https://xscore808.com/match/jordan-vs-algeria/78958053/",
         "is_live": true,
         "is_featured": true
     },
@@ -181,18 +193,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Uruguay vs Cabo Verde",
-        "home_team": "Uruguay",
-        "away_team": "Cabo Verde",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-21 22:00",
-        "link": "https://xscore808.com/match/uruguay-vs-cape-verde/78958048/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "New Zealand vs Egypt",
         "home_team": "New Zealand",
         "away_team": "Egypt",
@@ -296,6 +296,18 @@
         "away_logo": "",
         "time": "06-24 02:00",
         "link": "https://xscore808.com/match/colombia-vs-congo-dr/78958057/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Switzerland vs Canada",
+        "home_team": "Switzerland",
+        "away_team": "Canada",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-24 19:00",
+        "link": "https://xscore808.com/match/switzerland-vs-canada/78958058/",
         "is_live": true,
         "is_featured": false
     }
