@@ -1,30 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Argentina vs Austria",
-        "home_team": "Argentina",
-        "away_team": "Austria",
-        "home_logo": "https://xscore808.com/team/Argentina.png",
-        "away_logo": "https://xscore808.com/team/Austria.png",
-        "time": "Mon 22 Jun, 17:00",
-        "link": "https://xscore808.com/match/argentina-vs-austria/78958050/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "France vs Iraq",
-        "home_team": "France",
-        "away_team": "Iraq",
-        "home_logo": "https://xscore808.com/team/Phap.png",
-        "away_logo": "https://xscore808.com/team/Iraq.png",
-        "time": "Mon 22 Jun, 21:00",
-        "link": "https://xscore808.com/match/france-vs-iraq/78958051/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Noway vs Senegal",
         "home_team": "Noway",
         "away_team": "Senegal",
@@ -205,30 +181,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Argentina vs Austria",
-        "home_team": "Argentina",
-        "away_team": "Austria",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-22 17:00",
-        "link": "https://xscore808.com/match/argentina-vs-austria/78958050/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "France vs Iraq",
-        "home_team": "France",
-        "away_team": "Iraq",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-22 21:00",
-        "link": "https://xscore808.com/match/france-vs-iraq/78958051/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Noway vs Senegal",
         "home_team": "Noway",
         "away_team": "Senegal",
@@ -320,6 +272,30 @@
         "away_logo": "",
         "time": "06-24 19:00",
         "link": "https://xscore808.com/match/bosnia-herzegovina-vs-qatar/78958059/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Morocco vs Haiti",
+        "home_team": "Morocco",
+        "away_team": "Haiti",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-24 22:00",
+        "link": "https://xscore808.com/match/morocco-vs-haiti/78958060/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Scotland vs Brazil",
+        "home_team": "Scotland",
+        "away_team": "Brazil",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-24 22:00",
+        "link": "https://xscore808.com/match/scotland-vs-brazil/78958061/",
         "is_live": true,
         "is_featured": false
     }
