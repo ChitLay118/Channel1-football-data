@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Noway vs Senegal",
-        "home_team": "Noway",
-        "away_team": "Senegal",
-        "home_logo": "https://xscore808.com/team/Norway.png",
-        "away_logo": "https://xscore808.com/team/Senegal.png",
-        "time": "Tue 23 Jun, 00:00",
-        "link": "https://xscore808.com/match/noway-vs-senegal/78958052/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Jordan vs Algeria",
         "home_team": "Jordan",
         "away_team": "Algeria",
@@ -181,18 +169,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Noway vs Senegal",
-        "home_team": "Noway",
-        "away_team": "Senegal",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-23 00:00",
-        "link": "https://xscore808.com/match/noway-vs-senegal/78958052/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Jordan vs Algeria",
         "home_team": "Jordan",
         "away_team": "Algeria",
@@ -296,6 +272,18 @@
         "away_logo": "",
         "time": "06-24 22:00",
         "link": "https://xscore808.com/match/scotland-vs-brazil/78958061/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "South Africa vs South Korea",
+        "home_team": "South Africa",
+        "away_team": "South Korea",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-25 01:00",
+        "link": "https://xscore808.com/match/south-africa-vs-south-korea/78958062/",
         "is_live": true,
         "is_featured": false
     }
