@@ -202,29 +202,5 @@
         "link": "https://xscore808.com/match/ecuador-vs-germany/78958065/",
         "is_live": true,
         "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Tunisia vs Netherlands",
-        "home_team": "Tunisia",
-        "away_team": "Netherlands",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-25 23:00",
-        "link": "https://xscore808.com/match/tunisia-vs-netherlands/78958066/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Japan vs Sweden",
-        "home_team": "Japan",
-        "away_team": "Sweden",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-25 23:00",
-        "link": "https://xscore808.com/match/japan-vs-sweden/78958067/",
-        "is_live": true,
-        "is_featured": false
     }
 ]
