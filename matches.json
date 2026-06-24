@@ -1,6 +1,42 @@
 [
     {
         "league": "FIFA World Cup",
+        "title": "Switzerland vs Canada",
+        "home_team": "Switzerland",
+        "away_team": "Canada",
+        "home_logo": "https://xscore808.com/team/Thuysy.png",
+        "away_logo": "https://xscore808.com/team/Canada.png",
+        "time": "Wed 24 Jun, 19:00",
+        "link": "https://xscore808.com/match/switzerland-vs-canada/78958058/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Bosnia and Herzegovina vs Qatar",
+        "home_team": "Bosnia and Herzegovina",
+        "away_team": "Qatar",
+        "home_logo": "https://xscore808.com/team/Bosnia.png",
+        "away_logo": "https://xscore808.com/team/Qatar.png",
+        "time": "Wed 24 Jun, 19:00",
+        "link": "https://xscore808.com/match/bosnia-herzegovina-vs-qatar/78958059/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Morocco vs Haiti",
+        "home_team": "Morocco",
+        "away_team": "Haiti",
+        "home_logo": "https://xscore808.com/team/Morocco.png",
+        "away_logo": "https://xscore808.com/team/Haiti.png",
+        "time": "Wed 24 Jun, 22:00",
+        "link": "https://xscore808.com/match/morocco-vs-haiti/78958060/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
         "title": "Scotland vs Brazil",
         "home_team": "Scotland",
         "away_team": "Brazil",
@@ -8,6 +44,30 @@
         "away_logo": "https://xscore808.com/team/Brazil.png",
         "time": "Wed 24 Jun, 22:00",
         "link": "https://xscore808.com/match/scotland-vs-brazil/78958061/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "South Africa vs South Korea",
+        "home_team": "South Africa",
+        "away_team": "South Korea",
+        "home_logo": "https://xscore808.com/team/nam-phi.png",
+        "away_logo": "https://xscore808.com/team/Hanquoc.png",
+        "time": "Thu 25 Jun, 01:00",
+        "link": "https://xscore808.com/match/south-africa-vs-south-korea/78958062/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Czech Republic vs Mexico",
+        "home_team": "Czech Republic",
+        "away_team": "Mexico",
+        "home_logo": "https://xscore808.com/team/Czech.png",
+        "away_logo": "https://xscore808.com/team/Mexico.png",
+        "time": "Thu 25 Jun, 01:00",
+        "link": "https://xscore808.com/match/czech-vs-mexico/78958063/",
         "is_live": true,
         "is_featured": true
     },
@@ -32,6 +92,18 @@
         "away_logo": "https://xscore808.com/team/Halan.png",
         "time": "Thu 25 Jun, 23:00",
         "link": "https://xscore808.com/match/tunisia-vs-netherlands/78958066/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Japan vs Sweden",
+        "home_team": "Japan",
+        "away_team": "Sweden",
+        "home_logo": "https://xscore808.com/team/Nhat.png",
+        "away_logo": "https://xscore808.com/team/Sweden.png",
+        "time": "Thu 25 Jun, 23:00",
+        "link": "https://xscore808.com/match/japan-vs-sweden/78958067/",
         "is_live": true,
         "is_featured": true
     },
