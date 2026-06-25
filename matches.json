@@ -85,6 +85,30 @@
     },
     {
         "league": "FIFA World Cup",
+        "title": "Senegal vs Iraq",
+        "home_team": "Senegal",
+        "away_team": "Iraq",
+        "home_logo": "https://xscore808.com/team/Senegal.png",
+        "away_logo": "https://xscore808.com/team/Iraq.png",
+        "time": "Fri 26 Jun, 19:00",
+        "link": "https://xscore808.com/match/senegal-vs-iraq/78958071/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Cabo Verde vs Saudi Arabia",
+        "home_team": "Cabo Verde",
+        "away_team": "Saudi Arabia",
+        "home_logo": "https://xscore808.com/team/Cape_Verde.png",
+        "away_logo": "https://xscore808.com/team/Saudi-Arabia.png",
+        "time": "Sat 27 Jun, 00:00",
+        "link": "https://xscore808.com/match/cape-verde-vs-saudi-arabia/78958072/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
         "title": "Uruguay vs Spain",
         "home_team": "Uruguay",
         "away_team": "Spain",
@@ -140,6 +164,18 @@
         "away_logo": "https://xscore808.com/team/Argentina.png",
         "time": "Sun 28 Jun, 02:00",
         "link": "https://xscore808.com/match/jordan-vs-argentina/78958081/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "South Africa vs Canada",
+        "home_team": "South Africa",
+        "away_team": "Canada",
+        "home_logo": "https://xscore808.com/team/nam-phi.png",
+        "away_logo": "https://xscore808.com/team/Canada.png",
+        "time": "Sun 28 Jun, 19:00",
+        "link": "https://xscore808.com/match/south-africa-vs-canada/78958156/",
         "is_live": true,
         "is_featured": true
     },
