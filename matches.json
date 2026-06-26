@@ -1,30 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Turkey vs USA",
-        "home_team": "Turkey",
-        "away_team": "USA",
-        "home_logo": "https://xscore808.com/team/Turkey.png",
-        "away_logo": "https://xscore808.com/team/My.png",
-        "time": "Fri 26 Jun, 02:00",
-        "link": "https://xscore808.com/match/turkey-vs-usa/78958068/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Paraguay vs Australia",
-        "home_team": "Paraguay",
-        "away_team": "Australia",
-        "home_logo": "https://xscore808.com/team/Paraguay.png",
-        "away_logo": "https://xscore808.com/team/Australia.png",
-        "time": "Fri 26 Jun, 02:00",
-        "link": "https://xscore808.com/match/paraguay-vs-australia/78958069/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Noway vs France",
         "home_team": "Noway",
         "away_team": "France",
@@ -133,27 +109,27 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Turkey vs USA",
-        "home_team": "Turkey",
-        "away_team": "USA",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-26 02:00",
-        "link": "https://xscore808.com/match/turkey-vs-usa/78958068/",
+        "title": "Brazil vs Japan",
+        "home_team": "Brazil",
+        "away_team": "Japan",
+        "home_logo": "https://xscore808.com/team/Brazil.png",
+        "away_logo": "https://xscore808.com/team/Nhat.png",
+        "time": "Mon 29 Jun, 17:00",
+        "link": "https://xscore808.com/match/brazil-vs-japan/78958157/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
-        "title": "Paraguay vs Australia",
-        "home_team": "Paraguay",
-        "away_team": "Australia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-26 02:00",
-        "link": "https://xscore808.com/match/paraguay-vs-australia/78958069/",
+        "title": "Netherlands vs Morocco",
+        "home_team": "Netherlands",
+        "away_team": "Morocco",
+        "home_logo": "https://xscore808.com/team/Halan.png",
+        "away_logo": "https://xscore808.com/team/Morocco.png",
+        "time": "Tue 30 Jun, 01:00",
+        "link": "https://xscore808.com/match/netherlands-vs-morocco/78958158/",
         "is_live": true,
-        "is_featured": false
+        "is_featured": true
     },
     {
         "league": "FIFA World Cup",
@@ -224,6 +200,30 @@
         "away_logo": "",
         "time": "06-27 03:00",
         "link": "https://xscore808.com/match/egypt-vs-iran/78958075/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Panama vs England",
+        "home_team": "Panama",
+        "away_team": "England",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-27 21:00",
+        "link": "https://xscore808.com/match/panama-vs-england/78958076/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Croatia vs Ghana",
+        "home_team": "Croatia",
+        "away_team": "Ghana",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-27 21:00",
+        "link": "https://xscore808.com/match/croatia-vs-ghana/78958077/",
         "is_live": true,
         "is_featured": false
     }
