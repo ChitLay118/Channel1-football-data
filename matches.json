@@ -1,30 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Noway vs France",
-        "home_team": "Noway",
-        "away_team": "France",
-        "home_logo": "https://xscore808.com/team/Norway.png",
-        "away_logo": "https://xscore808.com/team/Phap.png",
-        "time": "Fri 26 Jun, 19:00",
-        "link": "https://xscore808.com/match/noway-vs-france/78958070/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Senegal vs Iraq",
-        "home_team": "Senegal",
-        "away_team": "Iraq",
-        "home_logo": "https://xscore808.com/team/Senegal.png",
-        "away_logo": "https://xscore808.com/team/Iraq.png",
-        "time": "Fri 26 Jun, 19:00",
-        "link": "https://xscore808.com/match/senegal-vs-iraq/78958071/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Cabo Verde vs Saudi Arabia",
         "home_team": "Cabo Verde",
         "away_team": "Saudi Arabia",
@@ -157,30 +133,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Noway vs France",
-        "home_team": "Noway",
-        "away_team": "France",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-26 19:00",
-        "link": "https://xscore808.com/match/noway-vs-france/78958070/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Senegal vs Iraq",
-        "home_team": "Senegal",
-        "away_team": "Iraq",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-26 19:00",
-        "link": "https://xscore808.com/match/senegal-vs-iraq/78958071/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Cabo Verde vs Saudi Arabia",
         "home_team": "Cabo Verde",
         "away_team": "Saudi Arabia",
@@ -248,6 +200,30 @@
         "away_logo": "",
         "time": "06-27 21:00",
         "link": "https://xscore808.com/match/croatia-vs-ghana/78958077/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Colombia vs Portugal",
+        "home_team": "Colombia",
+        "away_team": "Portugal",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-27 23:30",
+        "link": "https://xscore808.com/match/colombia-vs-portugal/78958078/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "DR Congo vs Uzbekistan",
+        "home_team": "DR Congo",
+        "away_team": "Uzbekistan",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-27 23:30",
+        "link": "https://xscore808.com/match/congo-dr-vs-uzbekistan/78958079/",
         "is_live": true,
         "is_featured": false
     }
