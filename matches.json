@@ -37,6 +37,18 @@
     },
     {
         "league": "FIFA World Cup",
+        "title": "DR Congo vs Uzbekistan",
+        "home_team": "DR Congo",
+        "away_team": "Uzbekistan",
+        "home_logo": "https://xscore808.com/team/Congo_DR.png",
+        "away_logo": "https://xscore808.com/team/Uzbekistan.png",
+        "time": "Sat 27 Jun, 23:30",
+        "link": "https://xscore808.com/match/congo-dr-vs-uzbekistan/78958079/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
         "title": "Algeria vs Austria",
         "home_team": "Algeria",
         "away_team": "Austria",
