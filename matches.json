@@ -97,6 +97,18 @@
     },
     {
         "league": "FIFA World Cup",
+        "title": "Germany vs Paraguay",
+        "home_team": "Germany",
+        "away_team": "Paraguay",
+        "home_logo": "https://xscore808.com/team/Germany.png",
+        "away_logo": "https://xscore808.com/team/Paraguay.png",
+        "time": "Mon 29 Jun, 20:30",
+        "link": "https://xscore808.com/match/germany-vs-paraguay/78958160/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
         "title": "Netherlands vs Morocco",
         "home_team": "Netherlands",
         "away_team": "Morocco",
@@ -104,6 +116,30 @@
         "away_logo": "https://xscore808.com/team/Morocco.png",
         "time": "Tue 30 Jun, 01:00",
         "link": "https://xscore808.com/match/netherlands-vs-morocco/78958158/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "France vs Sweden",
+        "home_team": "France",
+        "away_team": "Sweden",
+        "home_logo": "https://xscore808.com/team/Phap.png",
+        "away_logo": "https://xscore808.com/team/Sweden.png",
+        "time": "Tue 30 Jun, 21:00",
+        "link": "https://xscore808.com/match/france-vs-sweden/78958161/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Argentina vs Cabo Verde",
+        "home_team": "Argentina",
+        "away_team": "Cabo Verde",
+        "home_logo": "https://xscore808.com/team/Argentina.png",
+        "away_logo": "https://xscore808.com/team/Cape_Verde.png",
+        "time": "Fri 3 Jul, 22:00",
+        "link": "https://xscore808.com/match/argentina-vs-cape-verde/78958163/",
         "is_live": true,
         "is_featured": true
     },
