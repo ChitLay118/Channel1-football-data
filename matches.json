@@ -1,42 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "Cabo Verde vs Saudi Arabia",
-        "home_team": "Cabo Verde",
-        "away_team": "Saudi Arabia",
-        "home_logo": "https://xscore808.com/team/Cape_Verde.png",
-        "away_logo": "https://xscore808.com/team/Saudi-Arabia.png",
-        "time": "Sat 27 Jun, 00:00",
-        "link": "https://xscore808.com/match/cape-verde-vs-saudi-arabia/78958072/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Uruguay vs Spain",
-        "home_team": "Uruguay",
-        "away_team": "Spain",
-        "home_logo": "https://xscore808.com/team/Uruguay.png",
-        "away_logo": "https://xscore808.com/team/Taybannha.png",
-        "time": "Sat 27 Jun, 00:00",
-        "link": "https://xscore808.com/match/uruguay-vs-spain/78958073/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "New Zealand vs Belgium",
-        "home_team": "New Zealand",
-        "away_team": "Belgium",
-        "home_logo": "https://xscore808.com/team/New-Zealand.png",
-        "away_logo": "https://xscore808.com/team/Bi.png",
-        "time": "Sat 27 Jun, 03:00",
-        "link": "https://xscore808.com/match/new-zealand-vs-belgium/78958074/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Panama vs England",
         "home_team": "Panama",
         "away_team": "England",
@@ -133,54 +97,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "Cabo Verde vs Saudi Arabia",
-        "home_team": "Cabo Verde",
-        "away_team": "Saudi Arabia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-27 00:00",
-        "link": "https://xscore808.com/match/cape-verde-vs-saudi-arabia/78958072/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Uruguay vs Spain",
-        "home_team": "Uruguay",
-        "away_team": "Spain",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-27 00:00",
-        "link": "https://xscore808.com/match/uruguay-vs-spain/78958073/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "New Zealand vs Belgium",
-        "home_team": "New Zealand",
-        "away_team": "Belgium",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-27 03:00",
-        "link": "https://xscore808.com/match/new-zealand-vs-belgium/78958074/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
-        "title": "Egypt vs Iran",
-        "home_team": "Egypt",
-        "away_team": "Iran",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-27 03:00",
-        "link": "https://xscore808.com/match/egypt-vs-iran/78958075/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Panama vs England",
         "home_team": "Panama",
         "away_team": "England",
@@ -224,6 +140,54 @@
         "away_logo": "",
         "time": "06-27 23:30",
         "link": "https://xscore808.com/match/congo-dr-vs-uzbekistan/78958079/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Algeria vs Austria",
+        "home_team": "Algeria",
+        "away_team": "Austria",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-28 02:00",
+        "link": "https://xscore808.com/match/algeria-vs-austria/78958080/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Jordan vs Argentina",
+        "home_team": "Jordan",
+        "away_team": "Argentina",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-28 02:00",
+        "link": "https://xscore808.com/match/jordan-vs-argentina/78958081/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "South Africa vs Canada",
+        "home_team": "South Africa",
+        "away_team": "Canada",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-28 19:00",
+        "link": "https://xscore808.com/match/south-africa-vs-canada/78958156/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Brazil vs Japan",
+        "home_team": "Brazil",
+        "away_team": "Japan",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "06-29 17:00",
+        "link": "https://xscore808.com/match/brazil-vs-japan/78958157/",
         "is_live": true,
         "is_featured": false
     }
