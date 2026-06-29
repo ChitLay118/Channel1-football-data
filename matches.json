@@ -1,18 +1,6 @@
 [
     {
         "league": "FIFA World Cup",
-        "title": "South Africa vs Canada",
-        "home_team": "South Africa",
-        "away_team": "Canada",
-        "home_logo": "https://xscore808.com/team/nam-phi.png",
-        "away_logo": "https://xscore808.com/team/Canada.png",
-        "time": "Sun 28 Jun, 19:00",
-        "link": "https://xscore808.com/match/south-africa-vs-canada/78958156/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Brazil vs Japan",
         "home_team": "Brazil",
         "away_team": "Japan",
@@ -109,18 +97,6 @@
     },
     {
         "league": "FIFA World Cup",
-        "title": "South Africa vs Canada",
-        "home_team": "South Africa",
-        "away_team": "Canada",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "06-28 19:00",
-        "link": "https://xscore808.com/match/south-africa-vs-canada/78958156/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "FIFA World Cup",
         "title": "Brazil vs Japan",
         "home_team": "Brazil",
         "away_team": "Japan",
@@ -200,6 +176,18 @@
         "away_logo": "",
         "time": "07-01 16:00",
         "link": "https://xscore808.com/match/england-vs-congo-dr/78958166/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "FIFA World Cup",
+        "title": "Belgium vs Senegal",
+        "home_team": "Belgium",
+        "away_team": "Senegal",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "07-01 20:00",
+        "link": "https://xscore808.com/match/belgium-vs-senegal/78958167/",
         "is_live": true,
         "is_featured": false
     }
