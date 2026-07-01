@@ -1,6 +1,6 @@
 [
     {
-        "league": "FIFA World Cup",
+        "league": "World Cup",
         "title": "England vs DR Congo",
         "home_team": "England",
         "away_team": "DR Congo",
@@ -12,7 +12,7 @@
         "is_featured": true
     },
     {
-        "league": "FIFA World Cup",
+        "league": "World Cup",
         "title": "Spain vs Austria",
         "home_team": "Spain",
         "away_team": "Austria",
@@ -24,7 +24,7 @@
         "is_featured": true
     },
     {
-        "league": "FIFA World Cup",
+        "league": "World Cup",
         "title": "Portugal vs Croatia",
         "home_team": "Portugal",
         "away_team": "Croatia",
@@ -36,7 +36,7 @@
         "is_featured": true
     },
     {
-        "league": "FIFA World Cup",
+        "league": "World Cup",
         "title": "Argentina vs Cabo Verde",
         "home_team": "Argentina",
         "away_team": "Cabo Verde",
@@ -48,7 +48,7 @@
         "is_featured": true
     },
     {
-        "league": "FIFA World Cup",
+        "league": "World Cup",
         "title": "Paraguay vs France",
         "home_team": "Paraguay",
         "away_team": "France",
@@ -60,7 +60,7 @@
         "is_featured": true
     },
     {
-        "league": "FIFA World Cup",
+        "league": "World Cup",
         "title": "Brazil vs Noway",
         "home_team": "Brazil",
         "away_team": "Noway",
