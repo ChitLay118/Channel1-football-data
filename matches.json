@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "England vs DR Congo",
-        "home_team": "England",
-        "away_team": "DR Congo",
-        "home_logo": "https://xscore808.com/team/Anh.png",
-        "away_logo": "https://xscore808.com/team/Congo_DR.png",
-        "time": "Wed 1 Jul, 16:00",
-        "link": "https://xscore808.com/match/england-vs-congo-dr/78958166/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Spain vs Austria",
         "home_team": "Spain",
         "away_team": "Austria",
@@ -68,6 +56,18 @@
         "away_logo": "https://xscore808.com/team/Norway.png",
         "time": "Sun 5 Jul, 20:00",
         "link": "https://xscore808.com/match/brazil-vs-noway/78958174/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "World Cup",
+        "title": "Mexico vs England",
+        "home_team": "Mexico",
+        "away_team": "England",
+        "home_logo": "https://xscore808.com/team/Mexico.png",
+        "away_logo": "https://xscore808.com/team/Anh.png",
+        "time": "Mon 6 Jul, 00:00",
+        "link": "https://xscore808.com/match/mexico-vs-england/78958175/",
         "is_live": true,
         "is_featured": true
     }
