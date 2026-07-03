@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "Portugal vs Croatia",
-        "home_team": "Portugal",
-        "away_team": "Croatia",
-        "home_logo": "https://xscore808.com/team/Bodaonha.png",
-        "away_logo": "https://xscore808.com/team/Croatia.png",
-        "time": "Thu 2 Jul, 23:00",
-        "link": "https://xscore808.com/match/portugal-vs-croatia/78958168/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Argentina vs Cabo Verde",
         "home_team": "Argentina",
         "away_team": "Cabo Verde",
