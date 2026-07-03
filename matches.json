@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "Spain vs Austria",
-        "home_team": "Spain",
-        "away_team": "Austria",
-        "home_logo": "https://xscore808.com/team/Taybannha.png",
-        "away_logo": "https://xscore808.com/team/Austria.png",
-        "time": "Thu 2 Jul, 19:00",
-        "link": "https://xscore808.com/match/spain-vs-austria/78958170/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Portugal vs Croatia",
         "home_team": "Portugal",
         "away_team": "Croatia",
