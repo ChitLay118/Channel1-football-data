@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "Argentina vs Cabo Verde",
-        "home_team": "Argentina",
-        "away_team": "Cabo Verde",
-        "home_logo": "https://xscore808.com/team/Argentina.png",
-        "away_logo": "https://xscore808.com/team/Cape_Verde.png",
-        "time": "Fri 3 Jul, 22:00",
-        "link": "https://xscore808.com/match/argentina-vs-cape-verde/78958163/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Paraguay vs France",
         "home_team": "Paraguay",
         "away_team": "France",
