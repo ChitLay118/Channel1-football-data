@@ -46,5 +46,17 @@
         "link": "https://xscore808.com/match/portugal-vs-spain/78958177/",
         "is_live": true,
         "is_featured": true
+    },
+    {
+        "league": "World Cup",
+        "title": "Argentina vs Egypt",
+        "home_team": "Argentina",
+        "away_team": "Egypt",
+        "home_logo": "https://xscore808.com/team/Argentina.png",
+        "away_logo": "https://xscore808.com/team/Egypt.png",
+        "time": "Tue 7 Jul, 16:00",
+        "link": "https://xscore808.com/match/argentina-vs-egypt/78958178/",
+        "is_live": true,
+        "is_featured": true
     }
 ]
