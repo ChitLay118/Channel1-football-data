@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "Paraguay vs France",
-        "home_team": "Paraguay",
-        "away_team": "France",
-        "home_logo": "https://xscore808.com/team/Paraguay.png",
-        "away_logo": "https://xscore808.com/team/Phap.png",
-        "time": "Sat 4 Jul, 21:00",
-        "link": "https://xscore808.com/match/paraguay-vs-france/78958173/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Brazil vs Noway",
         "home_team": "Brazil",
         "away_team": "Noway",
