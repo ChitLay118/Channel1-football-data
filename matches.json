@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "Mexico vs England",
-        "home_team": "Mexico",
-        "away_team": "England",
-        "home_logo": "https://xscore808.com/team/Mexico.png",
-        "away_logo": "https://xscore808.com/team/Anh.png",
-        "time": "Mon 6 Jul, 00:00",
-        "link": "https://xscore808.com/match/mexico-vs-england/78958175/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Portugal vs Spain",
         "home_team": "Portugal",
         "away_team": "Spain",
@@ -44,6 +32,18 @@
         "away_logo": "https://xscore808.com/team/Morocco.png",
         "time": "Thu 9 Jul, 20:00",
         "link": "https://xscore808.com/match/france-vs-morocco/78958180/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "World Cup",
+        "title": "Noway vs England",
+        "home_team": "Noway",
+        "away_team": "England",
+        "home_logo": "https://xscore808.com/team/Norway.png",
+        "away_logo": "https://xscore808.com/team/Anh.png",
+        "time": "Sat 11 Jul, 21:00",
+        "link": "https://xscore808.com/match/noway-vs-england/78958181/",
         "is_live": true,
         "is_featured": true
     }
