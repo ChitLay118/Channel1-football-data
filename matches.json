@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "Portugal vs Spain",
-        "home_team": "Portugal",
-        "away_team": "Spain",
-        "home_logo": "https://xscore808.com/team/Bodaonha.png",
-        "away_logo": "https://xscore808.com/team/Taybannha.png",
-        "time": "Mon 6 Jul, 19:00",
-        "link": "https://xscore808.com/match/portugal-vs-spain/78958177/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Argentina vs Egypt",
         "home_team": "Argentina",
         "away_team": "Egypt",
