@@ -34,5 +34,17 @@
         "link": "https://xscore808.com/match/noway-vs-england/78958181/",
         "is_live": true,
         "is_featured": true
+    },
+    {
+        "league": "World Cup",
+        "title": "Argentina vs Switzerland",
+        "home_team": "Argentina",
+        "away_team": "Switzerland",
+        "home_logo": "https://xscore808.com/team/Argentina.png",
+        "away_logo": "https://xscore808.com/team/Thuysy.png",
+        "time": "Sun 12 Jul, 01:00",
+        "link": "https://xscore808.com/match/argentina-vs-switzerland/78958183/",
+        "is_live": true,
+        "is_featured": true
     }
 ]
