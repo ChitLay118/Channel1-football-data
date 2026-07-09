@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "France vs Morocco",
-        "home_team": "France",
-        "away_team": "Morocco",
-        "home_logo": "https://xscore808.com/team/Phap.png",
-        "away_logo": "https://xscore808.com/team/Morocco.png",
-        "time": "Thu 9 Jul, 20:00",
-        "link": "https://xscore808.com/match/france-vs-morocco/78958180/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Spain vs Belgium",
         "home_team": "Spain",
         "away_team": "Belgium",
