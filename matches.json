@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "Spain vs Belgium",
-        "home_team": "Spain",
-        "away_team": "Belgium",
-        "home_logo": "https://xscore808.com/team/Taybannha.png",
-        "away_logo": "https://xscore808.com/team/Bi.png",
-        "time": "Fri 10 Jul, 19:00",
-        "link": "https://xscore808.com/match/spain-vs-belgium/78958182/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Noway vs England",
         "home_team": "Noway",
         "away_team": "England",
@@ -32,6 +20,18 @@
         "away_logo": "https://xscore808.com/team/Thuysy.png",
         "time": "Sun 12 Jul, 01:00",
         "link": "https://xscore808.com/match/argentina-vs-switzerland/78958183/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "World Cup",
+        "title": "France vs Spain",
+        "home_team": "France",
+        "away_team": "Spain",
+        "home_logo": "https://xscore808.com/team/Phap.png",
+        "away_logo": "https://xscore808.com/team/Taybannha.png",
+        "time": "Tue 14 Jul, 19:00",
+        "link": "https://xscore808.com/match/france-vs-spain/78958208/",
         "is_live": true,
         "is_featured": true
     }
