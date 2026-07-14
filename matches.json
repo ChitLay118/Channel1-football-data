@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "France vs Spain",
-        "home_team": "France",
-        "away_team": "Spain",
-        "home_logo": "https://xscore808.com/team/Phap.png",
-        "away_logo": "https://xscore808.com/team/Taybannha.png",
-        "time": "Tue 14 Jul, 19:00",
-        "link": "https://xscore808.com/match/france-vs-spain/78958208/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "England vs Argentina",
         "home_team": "England",
         "away_team": "Argentina",
