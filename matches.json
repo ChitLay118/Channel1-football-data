@@ -1,18 +1,6 @@
 [
     {
         "league": "World Cup",
-        "title": "France vs England",
-        "home_team": "France",
-        "away_team": "England",
-        "home_logo": "https://xscore808.com/team/Phap.png",
-        "away_logo": "https://xscore808.com/team/Anh.png",
-        "time": "Sat 18 Jul, 21:00",
-        "link": "https://xscore808.com/match/france-vs-england/78958212/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "World Cup",
         "title": "Spain vs Argentina",
         "home_team": "Spain",
         "away_team": "Argentina",
