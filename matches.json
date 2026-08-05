@@ -25,42 +25,6 @@
     },
     {
         "league": "Club Friendly",
-        "title": "AC Milan vs Inter Milan",
-        "home_team": "AC Milan",
-        "away_team": "Inter Milan",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-05 11:00",
-        "link": "https://xscore808.com/match/ac-milan-vs-inter-milan/78958334/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
-        "title": "K-League All Stars vs Manchester City",
-        "home_team": "K-League All Stars",
-        "away_team": "Manchester City",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-05 11:00",
-        "link": "https://xscore808.com/match/k-league-all-stars-vs-manchester-city/78958341/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
-        "title": "Chelsea vs Juventus",
-        "home_team": "Chelsea",
-        "away_team": "Juventus",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-05 11:30",
-        "link": "https://xscore808.com/match/chelsea-vs-juventus/78958314/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
         "title": "Napoli vs Osasuna",
         "home_team": "Napoli",
         "away_team": "Osasuna",
