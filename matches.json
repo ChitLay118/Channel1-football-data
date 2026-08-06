@@ -24,18 +24,6 @@
         "is_featured": true
     },
     {
-        "league": "Leagues Cup",
-        "title": "Inter Miami vs Atletico San Luis",
-        "home_team": "Inter Miami",
-        "away_team": "Atletico San Luis",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-05 23:30",
-        "link": "https://xscore808.com/match/inter-miami-vs-atletico-san-luis/78958338/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "UEFA Europa League",
         "title": "KuPS vs Universitatea Craiova",
         "home_team": "KuPS",
