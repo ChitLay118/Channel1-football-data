@@ -25,42 +25,6 @@
     },
     {
         "league": "Club Friendly",
-        "title": "Bayern Munich vs Aston Villa",
-        "home_team": "Bayern Munich",
-        "away_team": "Aston Villa",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-07 12:00",
-        "link": "https://xscore808.com/match/bayern-munich-vs-aston-villa/78958317/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "ASEAN Championship",
-        "title": "Singapore vs Indonesia",
-        "home_team": "Singapore",
-        "away_team": "Indonesia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-07 13:00",
-        "link": "https://xscore808.com/match/singapore-vs-indonesia/78958360/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "ASEAN Championship",
-        "title": "Vietnam vs Cambodia",
-        "home_team": "Vietnam",
-        "away_team": "Cambodia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-07 13:00",
-        "link": "https://xscore808.com/match/vietnam-vs-campuchia/78958361/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
         "title": "Fulham vs Crystal Palace",
         "home_team": "Fulham",
         "away_team": "Crystal Palace",
