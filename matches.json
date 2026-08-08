@@ -24,30 +24,6 @@
         "is_featured": true
     },
     {
-        "league": "Club Friendly",
-        "title": "Juventus vs Inter Milan",
-        "home_team": "Juventus",
-        "away_team": "Inter Milan",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-08 11:00",
-        "link": "https://xscore808.com/match/juventus-vs-inter-milan/78958351/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
-        "title": "Chelsea vs AC Milan",
-        "home_team": "Chelsea",
-        "away_team": "AC Milan",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-08 12:00",
-        "link": "https://xscore808.com/match/chelsea-vs-ac-milan/78958315/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "EFL Cup",
         "title": "QPR vs Millwall",
         "home_team": "QPR",
