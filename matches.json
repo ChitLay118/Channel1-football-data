@@ -24,54 +24,6 @@
         "is_featured": true
     },
     {
-        "league": "EFL Cup",
-        "title": "QPR vs Millwall",
-        "home_team": "QPR",
-        "away_team": "Millwall",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-08 13:00",
-        "link": "https://xscore808.com/match/qpr-vs-millwall/78958368/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "ASEAN Championship",
-        "title": "Malaysia vs Philippines",
-        "home_team": "Malaysia",
-        "away_team": "Philippines",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-08 13:00",
-        "link": "https://xscore808.com/match/malaysia-vs-philippines/78958370/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "ASEAN Championship",
-        "title": "Thailand vs Myanmar",
-        "home_team": "Thailand",
-        "away_team": "Myanmar",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-08 13:00",
-        "link": "https://xscore808.com/match/thailand-vs-myanmar/78958372/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
-        "title": "Leeds United vs RB Leipzig",
-        "home_team": "Leeds United",
-        "away_team": "RB Leipzig",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-08 13:00",
-        "link": "https://xscore808.com/match/leeds-vs-rb-leipzig/78958365/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "Club Friendly",
         "title": "Bayer Leverkusen vs Sevilla",
         "home_team": "Bayer Leverkusen",
