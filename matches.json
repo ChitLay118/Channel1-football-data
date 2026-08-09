@@ -25,18 +25,6 @@
     },
     {
         "league": "Club Friendly",
-        "title": "Manchester City vs Atletico Madrid",
-        "home_team": "Manchester City",
-        "away_team": "Atletico Madrid",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-09 11:00",
-        "link": "https://xscore808.com/match/manchester-city-vs-atletico-madrid/78958316/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
         "title": "Johor Darul Takzim vs Chelsea",
         "home_team": "Johor Darul Takzim",
         "away_team": "Chelsea",
