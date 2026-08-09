@@ -24,18 +24,6 @@
         "is_featured": true
     },
     {
-        "league": "Eredivisie",
-        "title": "Sparta Rotterdam vs Feyenoord",
-        "home_team": "Sparta Rotterdam",
-        "away_team": "Feyenoord",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-09 10:15",
-        "link": "https://xscore808.com/match/sparta-rotterdam-vs-feyenoord/78958378/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "Club Friendly",
         "title": "Manchester City vs Atletico Madrid",
         "home_team": "Manchester City",
