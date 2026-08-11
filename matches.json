@@ -22,5 +22,113 @@
         "link": "https://xscore808.com/match/arsenal-vs-manchester-city/78958249/",
         "is_live": true,
         "is_featured": true
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Kairat Almaty vs Levski Sofia",
+        "home_team": "Kairat Almaty",
+        "away_team": "Levski Sofia",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 15:00",
+        "link": "https://xscore808.com/match/kairat-almaty-vs-levski-sofia/78958390/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Bodo Glimt vs Union Saint-Gilloise",
+        "home_team": "Bodo Glimt",
+        "away_team": "Union Saint-Gilloise",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 16:00",
+        "link": "https://xscore808.com/match/bodo-glimt-vs-union-saint-gilloise/78958391/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Kauno Zalgiris vs Dinamo Zagreb",
+        "home_team": "Kauno Zalgiris",
+        "away_team": "Dinamo Zagreb",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 17:00",
+        "link": "https://xscore808.com/match/kauno-zalgiris-vs-dinamo-zagreb/78958392/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "NEC Nijmegen vs Olympiacos",
+        "home_team": "NEC Nijmegen",
+        "away_team": "Olympiacos",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 17:30",
+        "link": "https://xscore808.com/match/nec-nijmegen-vs-olympiacos/78958393/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Crvena Zvezda vs Hapoel Beer Sheva",
+        "home_team": "Crvena Zvezda",
+        "away_team": "Hapoel Beer Sheva",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 18:00",
+        "link": "https://xscore808.com/match/crvena-zvezda-vs-hapoel-beer-sheva/78958394/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Publikum Celje vs Ararat-Armenia",
+        "home_team": "Publikum Celje",
+        "away_team": "Ararat-Armenia",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 18:15",
+        "link": "https://xscore808.com/match/publikum-celje-vs-ararat-armenia/78958395/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Slovan Bratislava vs Mjallby AIF",
+        "home_team": "Slovan Bratislava",
+        "away_team": "Mjallby AIF",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 18:15",
+        "link": "https://xscore808.com/match/slovan-bratislava-vs-mjallby-aif/78958396/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Sturm Graz vs Fenerbahce",
+        "home_team": "Sturm Graz",
+        "away_team": "Fenerbahce",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 18:30",
+        "link": "https://xscore808.com/match/sturm-graz-vs-fenerbahce/78958397/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Lyon vs Sparta Praha",
+        "home_team": "Lyon",
+        "away_team": "Sparta Praha",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 19:00",
+        "link": "https://xscore808.com/match/lyon-vs-sparta-praha/78958398/",
+        "is_live": true,
+        "is_featured": false
     }
 ]
