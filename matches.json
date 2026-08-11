@@ -24,6 +24,18 @@
         "is_featured": true
     },
     {
+        "league": "Club Friendly",
+        "title": "Juventus vs Palermo",
+        "home_team": "Juventus",
+        "away_team": "Palermo",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-11 10:00",
+        "link": "https://xscore808.com/match/juventus-vs-palermo/78958408/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
         "league": "UEFA Champions League",
         "title": "Kairat Almaty vs Levski Sofia",
         "home_team": "Kairat Almaty",
