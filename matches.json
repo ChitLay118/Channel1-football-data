@@ -24,6 +24,78 @@
         "is_featured": true
     },
     {
+        "league": "Premier League",
+        "title": "Arsenal vs Coventry",
+        "home_team": "Arsenal",
+        "away_team": "Coventry",
+        "home_logo": "https://xscore808.com/team/arsenal.png",
+        "away_logo": "https://xscore808.com/team/Coventry.gif",
+        "time": "Fri 21 Aug, 19:00",
+        "link": "https://xscore808.com/match/arsenal-vs-coventry/78958184/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "Premier League",
+        "title": "Hull City vs Manchester United",
+        "home_team": "Hull City",
+        "away_team": "Manchester United",
+        "home_logo": "https://xscore808.com/team/hullcity.png",
+        "away_logo": "https://xscore808.com/team/manchesterunited.png",
+        "time": "Sat 22 Aug, 11:30",
+        "link": "https://xscore808.com/match/hull-city-vs-manchester-united/78958185/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "Premier League",
+        "title": "Manchester City vs Bournemouth",
+        "home_team": "Manchester City",
+        "away_team": "Bournemouth",
+        "home_logo": "https://xscore808.com/team/manchestercity.png",
+        "away_logo": "https://xscore808.com/team/Bournemouth.gif",
+        "time": "Sun 23 Aug, 13:00",
+        "link": "https://xscore808.com/match/manchester-city-vs-bournemouth/78958190/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "Premier League",
+        "title": "Newcastle United vs Liverpool",
+        "home_team": "Newcastle United",
+        "away_team": "Liverpool",
+        "home_logo": "https://xscore808.com/team/newcastle.png",
+        "away_logo": "https://xscore808.com/team/liverpool.png",
+        "time": "Sun 23 Aug, 15:30",
+        "link": "https://xscore808.com/match/newcastle-vs-liverpool/78958192/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "La Liga",
+        "title": "Real Madrid vs Real Sociedad",
+        "home_team": "Real Madrid",
+        "away_team": "Real Sociedad",
+        "home_logo": "https://xscore808.com/team/real-madrid.png",
+        "away_logo": "https://xscore808.com/team/Real-Sociedad.png",
+        "time": "Wed 26 Aug, 19:00",
+        "link": "https://xscore808.com/match/real-madrid-vs-real-sociedad/78958207/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "La Liga",
+        "title": "Barcelona vs Athletic Bilbao",
+        "home_team": "Barcelona",
+        "away_team": "Athletic Bilbao",
+        "home_logo": "https://xscore808.com/team/Barcelona.png",
+        "away_logo": "https://xscore808.com/team/athletic-bilbao.png",
+        "time": "Thu 27 Aug, 19:00",
+        "link": "https://xscore808.com/match/barcelona-vs-athletic-bilbao/78958206/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
         "league": "Club Friendly",
         "title": "Newcastle United vs Everton",
         "home_team": "Newcastle United",
