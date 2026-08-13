@@ -84,18 +84,6 @@
         "is_featured": true
     },
     {
-        "league": "Leagues Cup",
-        "title": "Inter Miami vs León",
-        "home_team": "Inter Miami",
-        "away_team": "León",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-12 23:30",
-        "link": "https://xscore808.com/match/inter-miami-vs-leon/78958407/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "UEFA Conference League",
         "title": "Qarabag vs Dynamo Kyiv",
         "home_team": "Qarabag",
