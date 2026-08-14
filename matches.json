@@ -84,30 +84,6 @@
         "is_featured": true
     },
     {
-        "league": "Primeira Liga",
-        "title": "Sporting Lisbon vs Vitoria Guimaraes",
-        "home_team": "Sporting Lisbon",
-        "away_team": "Vitoria Guimaraes",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-14 19:00",
-        "link": "https://xscore808.com/match/sporting-lisbon-vs-vitoria-guimaraes/78958451/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Coppa Italia",
-        "title": "Fiorentina vs Benevento",
-        "home_team": "Fiorentina",
-        "away_team": "Benevento",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-14 19:15",
-        "link": "https://xscore808.com/match/fiorentina-vs-benevento/78958455/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "ASEAN Championship",
         "title": "Singapore vs Thailand",
         "home_team": "Singapore",
@@ -240,6 +216,18 @@
         "is_featured": false
     },
     {
+        "league": "Eredivisie",
+        "title": "Utrecht vs AZ Alkmaar",
+        "home_team": "Utrecht",
+        "away_team": "AZ Alkmaar",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-15 16:45",
+        "link": "https://xscore808.com/match/utrecht-vs-az-alkmaar/78958469/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
         "league": "Club Friendly",
         "title": "Inter Milan vs Betis",
         "home_team": "Inter Milan",
@@ -272,6 +260,18 @@
         "away_logo": "",
         "time": "08-15 18:00",
         "link": "https://xscore808.com/match/al-nassr-vs-al-fateh/78958457/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Eredivisie",
+        "title": "Excelsior Rotterdam vs PSV",
+        "home_team": "Excelsior Rotterdam",
+        "away_team": "PSV",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-15 18:00",
+        "link": "https://xscore808.com/match/excelsior-vs-psv-eindhoven/78958470/",
         "is_live": true,
         "is_featured": false
     },
