@@ -84,54 +84,6 @@
         "is_featured": true
     },
     {
-        "league": "ASEAN Championship",
-        "title": "Singapore vs Thailand",
-        "home_team": "Singapore",
-        "away_team": "Thailand",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-15 13:00",
-        "link": "https://xscore808.com/match/singapore-vs-thailand/78958444/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
-        "title": "Chelsea vs Real Sociedad",
-        "home_team": "Chelsea",
-        "away_team": "Real Sociedad",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-15 13:00",
-        "link": "https://xscore808.com/match/chelsea-vs-real-sociedad/78958447/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
-        "title": "Monchengladbach vs Aston Villa",
-        "home_team": "Monchengladbach",
-        "away_team": "Aston Villa",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-15 13:30",
-        "link": "https://xscore808.com/match/monchengladbach-vs-aston-villa/78958413/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
-        "title": "Bayern Munich vs RB Leipzig",
-        "home_team": "Bayern Munich",
-        "away_team": "RB Leipzig",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-15 13:30",
-        "link": "https://xscore808.com/match/bayern-munich-vs-rb-leipzig/78958448/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "Club Friendly",
         "title": "Newcastle United vs Bayer Leverkusen",
         "home_team": "Newcastle United",
