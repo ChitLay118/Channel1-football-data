@@ -84,42 +84,6 @@
         "is_featured": true
     },
     {
-        "league": "Club Friendly",
-        "title": "Manchester United vs AC Milan",
-        "home_team": "Manchester United",
-        "away_team": "AC Milan",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-15 14:45",
-        "link": "https://xscore808.com/match/manchester-united-vs-ac-milan/78958446/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
-        "title": "Fulham vs Stuttgart",
-        "home_team": "Fulham",
-        "away_team": "Stuttgart",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-15 15:00",
-        "link": "https://xscore808.com/match/fulham-vs-stuttgart/78958416/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Club Friendly",
-        "title": "Dortmund vs AS Roma",
-        "home_team": "Dortmund",
-        "away_team": "AS Roma",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-15 15:30",
-        "link": "https://xscore808.com/match/dortmund-vs-as-roma/78958417/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "Eredivisie",
         "title": "Utrecht vs AZ Alkmaar",
         "home_team": "Utrecht",
