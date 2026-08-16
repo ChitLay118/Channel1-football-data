@@ -181,6 +181,18 @@
     },
     {
         "league": "Club Friendly",
+        "title": "Newcastle United vs Strasbourg",
+        "home_team": "Newcastle United",
+        "away_team": "Strasbourg",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-16 15:00",
+        "link": "https://xscore808.com/match/newcastle-vs-strasbourg/78958472/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Club Friendly",
         "title": "Liverpool vs Calcio Como",
         "home_team": "Liverpool",
         "away_team": "Calcio Como",
