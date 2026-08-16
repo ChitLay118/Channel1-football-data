@@ -84,30 +84,6 @@
         "is_featured": true
     },
     {
-        "league": "Eredivisie",
-        "title": "Feyenoord vs Go Ahead Eagles",
-        "home_team": "Feyenoord",
-        "away_team": "Go Ahead Eagles",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-16 12:30",
-        "link": "https://xscore808.com/match/feyenoord-vs-go-ahead-eagles/78958471/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "ASEAN Championship",
-        "title": "Malaysia vs Vietnam",
-        "home_team": "Malaysia",
-        "away_team": "Vietnam",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-16 13:00",
-        "link": "https://xscore808.com/match/malaysia-vs-vietnam/78958445/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "FA Community Shield",
         "title": "Arsenal vs Manchester City",
         "home_team": "Arsenal",
