@@ -84,18 +84,6 @@
         "is_featured": true
     },
     {
-        "league": "MLS League",
-        "title": "Nashville SC vs Inter Miami",
-        "home_team": "Nashville SC",
-        "away_team": "Inter Miami",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-16 00:30",
-        "link": "https://xscore808.com/match/nashville-vs-inter-miami/78958456/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "Eredivisie",
         "title": "Feyenoord vs Go Ahead Eagles",
         "home_team": "Feyenoord",
