@@ -24,6 +24,18 @@
         "is_featured": true
     },
     {
+        "league": "La Liga",
+        "title": "Espanyol vs Real Madrid",
+        "home_team": "Espanyol",
+        "away_team": "Real Madrid",
+        "home_logo": "https://xscore808.com/team/Espanyol.png",
+        "away_logo": "https://xscore808.com/team/real-madrid.png",
+        "time": "Sat 22 Aug, 19:30",
+        "link": "https://xscore808.com/match/espanyol-vs-real-madrid/78958483/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
         "league": "Premier League",
         "title": "Manchester City vs Bournemouth",
         "home_team": "Manchester City",
@@ -44,6 +56,18 @@
         "away_logo": "https://xscore808.com/team/liverpool.png",
         "time": "Sun 23 Aug, 15:30",
         "link": "https://xscore808.com/match/newcastle-vs-liverpool/78958192/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
+        "league": "La Liga",
+        "title": "Elche vs Barcelona",
+        "home_team": "Elche",
+        "away_team": "Barcelona",
+        "home_logo": "https://xscore808.com/team/Elche.png",
+        "away_logo": "https://xscore808.com/team/Barcelona.png",
+        "time": "Sun 23 Aug, 19:30",
+        "link": "https://xscore808.com/match/elche-vs-barcelona/78958486/",
         "is_live": true,
         "is_featured": true
     },
@@ -72,26 +96,62 @@
         "is_featured": true
     },
     {
-        "league": "La Liga",
-        "title": "Deportivo La Coruna vs Elche",
-        "home_team": "Deportivo La Coruna",
-        "away_team": "Elche",
+        "league": "ASEAN Championship",
+        "title": "Thailand vs Singapore",
+        "home_team": "Thailand",
+        "away_team": "Singapore",
         "home_logo": "",
         "away_logo": "",
-        "time": "08-17 19:00",
-        "link": "https://xscore808.com/match/deportivo-la-coruna-vs-elche/78958425/",
+        "time": "08-18 13:00",
+        "link": "https://xscore808.com/match/thailand-vs-singapore/78958474/",
         "is_live": true,
         "is_featured": false
     },
     {
-        "league": "Primeira Liga",
-        "title": "Casa Pia vs Benfica",
-        "home_team": "Casa Pia",
-        "away_team": "Benfica",
+        "league": "Club Friendly",
+        "title": "Heidenheim 1846 vs Bayern Munich",
+        "home_team": "Heidenheim 1846",
+        "away_team": "Bayern Munich",
         "home_logo": "",
         "away_logo": "",
-        "time": "08-17 19:15",
-        "link": "https://xscore808.com/match/casa-pia-vs-benfica/78958473/",
+        "time": "08-18 16:00",
+        "link": "https://xscore808.com/match/heidenheim-1846-vs-bayern-munich/78958476/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Dinamo Zagreb vs Viking Stavanger",
+        "home_team": "Dinamo Zagreb",
+        "away_team": "Viking Stavanger",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-18 19:00",
+        "link": "https://xscore808.com/match/dinamo-zagreb-vs-viking-stavanger/78958458/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Fenerbahce vs Lyon",
+        "home_team": "Fenerbahce",
+        "away_team": "Lyon",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-18 19:00",
+        "link": "https://xscore808.com/match/fenerbahce-vs-lyon/78958459/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Champions League",
+        "title": "Levski Sofia vs AEK Athens",
+        "home_team": "Levski Sofia",
+        "away_team": "AEK Athens",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-18 19:00",
+        "link": "https://xscore808.com/match/levski-sofia-vs-aek-athens/78958460/",
         "is_live": true,
         "is_featured": false
     }
