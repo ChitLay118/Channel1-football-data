@@ -96,18 +96,6 @@
         "is_featured": true
     },
     {
-        "league": "ASEAN Championship",
-        "title": "Vietnam vs Malaysia",
-        "home_team": "Vietnam",
-        "away_team": "Malaysia",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-19 13:00",
-        "link": "https://xscore808.com/match/vietnam-vs-malaysia/78958475/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "Joan Gamper Cup",
         "title": "Barcelona vs Al Ahly",
         "home_team": "Barcelona",
