@@ -96,18 +96,6 @@
         "is_featured": true
     },
     {
-        "league": "Joan Gamper Cup",
-        "title": "Barcelona vs Al Ahly",
-        "home_team": "Barcelona",
-        "away_team": "Al Ahly",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-19 18:00",
-        "link": "https://xscore808.com/match/barcelona-vs-al-ahly/78958477/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "La Liga",
         "title": "Atletico Madrid vs Malaga",
         "home_team": "Atletico Madrid",
