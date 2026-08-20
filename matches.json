@@ -96,18 +96,6 @@
         "is_featured": true
     },
     {
-        "league": "MLS League",
-        "title": "Philadelphia Union vs Inter Miami",
-        "home_team": "Philadelphia Union",
-        "away_team": "Inter Miami",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-19 23:30",
-        "link": "https://xscore808.com/match/philadelphia-union-vs-inter-miami/78958478/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "UEFA Europa League",
         "title": "Besiktas vs Kauno Zalgiris",
         "home_team": "Besiktas",
