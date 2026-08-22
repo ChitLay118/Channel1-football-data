@@ -72,54 +72,6 @@
         "is_featured": true
     },
     {
-        "league": "Premier League",
-        "title": "Ipswich Town vs Sunderland",
-        "home_team": "Ipswich Town",
-        "away_team": "Sunderland",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-22 14:00",
-        "link": "https://xscore808.com/match/ipswich-town-vs-sunderland/78958186/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Premier League",
-        "title": "Everton vs Crystal Palace",
-        "home_team": "Everton",
-        "away_team": "Crystal Palace",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-22 14:00",
-        "link": "https://xscore808.com/match/everton-vs-crystal-palace/78958187/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Premier League",
-        "title": "Nottingham Forest vs Leeds United",
-        "home_team": "Nottingham Forest",
-        "away_team": "Leeds United",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-22 14:00",
-        "link": "https://xscore808.com/match/nottingham-forest-vs-leeds/78958188/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Eredivisie",
-        "title": "Fortuna Sittard vs AZ Alkmaar",
-        "home_team": "Fortuna Sittard",
-        "away_team": "AZ Alkmaar",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-22 14:30",
-        "link": "https://xscore808.com/match/fortuna-sittard-vs-az-alkmaar/78958500/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "La Liga",
         "title": "Athletic Bilbao vs Sevilla",
         "home_team": "Athletic Bilbao",
