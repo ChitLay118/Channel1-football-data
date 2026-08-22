@@ -84,6 +84,18 @@
         "is_featured": true
     },
     {
+        "league": "DFB-Pokal",
+        "title": "Wehen Wiesbaden vs Bayer Leverkusen",
+        "home_team": "Wehen Wiesbaden",
+        "away_team": "Bayer Leverkusen",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-22 11:00",
+        "link": "https://xscore808.com/match/wehen-wiesbaden-vs-leverkusen/78958506/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
         "league": "Premier League",
         "title": "Hull City vs Manchester United",
         "home_team": "Hull City",
@@ -92,6 +104,18 @@
         "away_logo": "",
         "time": "08-22 11:30",
         "link": "https://xscore808.com/match/hull-city-vs-manchester-united/78958185/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "ASEAN Championship",
+        "title": "Thailand vs Vietnam",
+        "home_team": "Thailand",
+        "away_team": "Vietnam",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-22 13:00",
+        "link": "https://xscore808.com/match/thailand-vs-vietnam/78958499/",
         "is_live": true,
         "is_featured": false
     },
@@ -128,6 +152,18 @@
         "away_logo": "",
         "time": "08-22 14:00",
         "link": "https://xscore808.com/match/nottingham-forest-vs-leeds/78958188/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Eredivisie",
+        "title": "Fortuna Sittard vs AZ Alkmaar",
+        "home_team": "Fortuna Sittard",
+        "away_team": "AZ Alkmaar",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-22 14:30",
+        "link": "https://xscore808.com/match/fortuna-sittard-vs-az-alkmaar/78958500/",
         "is_live": true,
         "is_featured": false
     },
@@ -296,6 +332,30 @@
         "away_logo": "",
         "time": "08-22 19:30",
         "link": "https://xscore808.com/match/espanyol-vs-real-madrid/78958483/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Primeira Liga",
+        "title": "Sporting Lisbon vs Alverca",
+        "home_team": "Sporting Lisbon",
+        "away_team": "Alverca",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-22 19:30",
+        "link": "https://xscore808.com/match/sporting-lisbon-vs-alverca/78958503/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "MLS League",
+        "title": "Inter Miami vs Toronto",
+        "home_team": "Inter Miami",
+        "away_team": "Toronto",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-22 23:30",
+        "link": "https://xscore808.com/match/inter-miami-vs-toronto/78958498/",
         "is_live": true,
         "is_featured": false
     }
