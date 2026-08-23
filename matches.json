@@ -60,18 +60,6 @@
         "is_featured": true
     },
     {
-        "league": "MLS League",
-        "title": "Inter Miami vs Toronto",
-        "home_team": "Inter Miami",
-        "away_team": "Toronto",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-22 23:30",
-        "link": "https://xscore808.com/match/inter-miami-vs-toronto/78958498/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "Eredivisie",
         "title": "PSV vs Groningen",
         "home_team": "PSV",
