@@ -108,62 +108,14 @@
         "is_featured": true
     },
     {
-        "league": "Serie A",
-        "title": "Bologna vs Lazio",
-        "home_team": "Bologna",
-        "away_team": "Lazio",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-24 16:30",
-        "link": "https://xscore808.com/match/bologna-vs-lazio/78958202/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "La Liga",
-        "title": "Osasuna vs Levante",
-        "home_team": "Osasuna",
-        "away_team": "Levante",
+        "title": "Valencia vs Betis",
+        "home_team": "Valencia",
+        "away_team": "Betis",
         "home_logo": "",
         "away_logo": "",
-        "time": "08-24 17:30",
-        "link": "https://xscore808.com/match/osasuna-vs-levante/78958487/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Serie A",
-        "title": "AS Roma vs Fiorentina",
-        "home_team": "AS Roma",
-        "away_team": "Fiorentina",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-24 18:45",
-        "link": "https://xscore808.com/match/as-roma-vs-fiorentina/78958203/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Premier League",
-        "title": "Fulham vs Chelsea",
-        "home_team": "Fulham",
-        "away_team": "Chelsea",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-24 19:00",
-        "link": "https://xscore808.com/match/fulham-vs-chelsea/78958193/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "La Liga",
-        "title": "Malaga vs Deportivo La Coruna",
-        "home_team": "Malaga",
-        "away_team": "Deportivo La Coruna",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-24 19:30",
-        "link": "https://xscore808.com/match/malaga-vs-deportivo-la-coruna/78958488/",
+        "time": "08-25 19:00",
+        "link": "https://xscore808.com/match/valencia-vs-betis/78958427/",
         "is_live": true,
         "is_featured": false
     }
