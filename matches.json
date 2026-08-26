@@ -108,18 +108,6 @@
         "is_featured": true
     },
     {
-        "league": "ASEAN Championship",
-        "title": "Vietnam vs Thailand",
-        "home_team": "Vietnam",
-        "away_team": "Thailand",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-26 13:00",
-        "link": "https://xscore808.com/match/vietnam-vs-thailand/78958505/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "EFL Cup",
         "title": "Newcastle United vs West Brom",
         "home_team": "Newcastle United",
