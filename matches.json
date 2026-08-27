@@ -96,6 +96,42 @@
         "is_featured": true
     },
     {
+        "league": "UEFA Europa League",
+        "title": "Aarhus AGF vs Benfica",
+        "home_team": "Aarhus AGF",
+        "away_team": "Benfica",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-27 18:00",
+        "link": "https://xscore808.com/match/aarhus-agf-vs-benfica/78958552/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Conference League",
+        "title": "Ajax vs Sion",
+        "home_team": "Ajax",
+        "away_team": "Sion",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-27 18:00",
+        "link": "https://xscore808.com/match/ajax-vs-sion/78958553/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Conference League",
+        "title": "Hapoel Tel Aviv vs Atalanta",
+        "home_team": "Hapoel Tel Aviv",
+        "away_team": "Atalanta",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-27 18:00",
+        "link": "https://xscore808.com/match/hapoel-tel-aviv-vs-atalanta/78958554/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
         "league": "La Liga",
         "title": "Celta Vigo vs Osasuna",
         "home_team": "Celta Vigo",
@@ -116,6 +152,18 @@
         "away_logo": "",
         "time": "08-27 18:30",
         "link": "https://xscore808.com/match/chelsea-vs-luton-town/78958550/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "UEFA Conference League",
+        "title": "Brighton vs Tromso",
+        "home_team": "Brighton",
+        "away_team": "Tromso",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "08-27 18:30",
+        "link": "https://xscore808.com/match/brighton-vs-tromso/78958555/",
         "is_live": true,
         "is_featured": false
     },
