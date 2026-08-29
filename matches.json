@@ -60,30 +60,6 @@
         "is_featured": true
     },
     {
-        "league": "Premier League",
-        "title": "Coventry City vs Hull City",
-        "home_team": "Coventry City",
-        "away_team": "Hull City",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-29 14:00",
-        "link": "https://xscore808.com/match/coventry-vs-hull-city/78958509/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Premier League",
-        "title": "Bournemouth vs Everton",
-        "home_team": "Bournemouth",
-        "away_team": "Everton",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-29 14:00",
-        "link": "https://xscore808.com/match/bournemouth-vs-everton/78958510/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
         "league": "La Liga",
         "title": "Levante vs Betis",
         "home_team": "Levante",
