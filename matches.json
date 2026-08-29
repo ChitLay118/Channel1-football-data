@@ -1,18 +1,6 @@
 [
     {
         "league": "Premier League",
-        "title": "Liverpool vs Nottingham Forest",
-        "home_team": "Liverpool",
-        "away_team": "Nottingham Forest",
-        "home_logo": "https://xscore808.com/team/liverpool.png",
-        "away_logo": "https://xscore808.com/team/nottingham_forest.png",
-        "time": "Sat 29 Aug, 11:30",
-        "link": "https://xscore808.com/match/liverpool-vs-nottingham-forest/78958508/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "Premier League",
         "title": "Chelsea vs Brighton",
         "home_team": "Chelsea",
         "away_team": "Brighton",
@@ -70,78 +58,6 @@
         "link": "https://xscore808.com/match/barcelona-vs-rayo-vallecano/78958526/",
         "is_live": true,
         "is_featured": true
-    },
-    {
-        "league": "Premier League",
-        "title": "Liverpool vs Nottingham Forest",
-        "home_team": "Liverpool",
-        "away_team": "Nottingham Forest",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-29 11:30",
-        "link": "https://xscore808.com/match/liverpool-vs-nottingham-forest/78958508/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Bundesliga",
-        "title": "Elversberg vs Bayer Leverkusen",
-        "home_team": "Elversberg",
-        "away_team": "Bayer Leverkusen",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-29 13:30",
-        "link": "https://xscore808.com/match/elversberg-vs-leverkusen/78958428/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Bundesliga",
-        "title": "Koln vs Hoffenheim",
-        "home_team": "Koln",
-        "away_team": "Hoffenheim",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-29 13:30",
-        "link": "https://xscore808.com/match/koln-vs-hoffenheim/78958429/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Bundesliga",
-        "title": "Mainz 05 vs Paderborn 07",
-        "home_team": "Mainz 05",
-        "away_team": "Paderborn 07",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-29 13:30",
-        "link": "https://xscore808.com/match/mainz-05-vs-paderborn-07/78958430/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Bundesliga",
-        "title": "RB Leipzig vs Monchengladbach",
-        "home_team": "RB Leipzig",
-        "away_team": "Monchengladbach",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-29 13:30",
-        "link": "https://xscore808.com/match/rb-leipzig-vs-monchengladbach/78958431/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Bundesliga",
-        "title": "Union Berlin vs Frankfurt",
-        "home_team": "Union Berlin",
-        "away_team": "Frankfurt",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-29 13:30",
-        "link": "https://xscore808.com/match/union-berlin-vs-frankfurt/78958432/",
-        "is_live": true,
-        "is_featured": false
     },
     {
         "league": "Premier League",
