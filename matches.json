@@ -48,6 +48,18 @@
         "is_featured": true
     },
     {
+        "league": "Serie A",
+        "title": "Juventus vs AC Milan",
+        "home_team": "Juventus",
+        "away_team": "AC Milan",
+        "home_logo": "https://xscore808.com/team/Juventus.png",
+        "away_logo": "https://xscore808.com/team/acmilan.png",
+        "time": "Sun 6 Sep, 18:45",
+        "link": "https://xscore808.com/match/juventus-vs-ac-milan/78958621/",
+        "is_live": true,
+        "is_featured": true
+    },
+    {
         "league": "UEFA Champions League",
         "title": "Real Madrid vs Inter Milan",
         "home_team": "Real Madrid",
