@@ -48,6 +48,90 @@
         "is_featured": true
     },
     {
+        "league": "Coppa Italia",
+        "title": "Parma vs Cremonese",
+        "home_team": "Parma",
+        "away_team": "Cremonese",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 16:00",
+        "link": "https://xscore808.com/match/parma-vs-cremonese/78958648/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "English Championship",
+        "title": "West Ham vs Wolves",
+        "home_team": "West Ham",
+        "away_team": "Wolves",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 18:45",
+        "link": "https://xscore808.com/match/west-ham-vs-wolverhampton/78958650/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "English Championship",
+        "title": "Lincoln City vs Blackburn",
+        "home_team": "Lincoln City",
+        "away_team": "Blackburn",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 18:45",
+        "link": "https://xscore808.com/match/lincoln-city-vs-blackburn/78958652/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "English Championship",
+        "title": "Portsmouth vs Derby County",
+        "home_team": "Portsmouth",
+        "away_team": "Derby County",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 18:45",
+        "link": "https://xscore808.com/match/portsmouth-vs-derby-county/78958653/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "English Championship",
+        "title": "Preston vs Bristol City",
+        "home_team": "Preston",
+        "away_team": "Bristol City",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 18:45",
+        "link": "https://xscore808.com/match/preston-vs-bristol-city/78958654/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "English Championship",
+        "title": "Sheffield United vs Bolton",
+        "home_team": "Sheffield United",
+        "away_team": "Bolton",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 18:45",
+        "link": "https://xscore808.com/match/sheffield-united-vs-bolton/78958655/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "English Championship",
+        "title": "Swansea City vs Watford",
+        "home_team": "Swansea City",
+        "away_team": "Watford",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 18:45",
+        "link": "https://xscore808.com/match/swansea-city-vs-watford/78958656/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
         "league": "DFB-Pokal",
         "title": "HEBC Hamburg vs Dortmund",
         "home_team": "HEBC Hamburg",
@@ -56,6 +140,42 @@
         "away_logo": "",
         "time": "09-01 18:45",
         "link": "https://xscore808.com/match/hebc-hamburg-vs-dortmund/78958573/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "Coppa Italia",
+        "title": "Torino vs Monza",
+        "home_team": "Torino",
+        "away_team": "Monza",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 19:00",
+        "link": "https://xscore808.com/match/torino-vs-monza/78958649/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "English Championship",
+        "title": "Birmingham vs Southampton",
+        "home_team": "Birmingham",
+        "away_team": "Southampton",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 19:00",
+        "link": "https://xscore808.com/match/birmingham-vs-southampton/78958651/",
+        "is_live": true,
+        "is_featured": false
+    },
+    {
+        "league": "English Championship",
+        "title": "Stoke City vs Norwich City",
+        "home_team": "Stoke City",
+        "away_team": "Norwich City",
+        "home_logo": "",
+        "away_logo": "",
+        "time": "09-01 19:00",
+        "link": "https://xscore808.com/match/stoke-city-vs-norwich-city/78958657/",
         "is_live": true,
         "is_featured": false
     }
