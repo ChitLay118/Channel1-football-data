@@ -1,29 +1,5 @@
 [
     {
-        "league": "Premier League",
-        "title": "Aston Villa vs Arsenal",
-        "home_team": "Aston Villa",
-        "away_team": "Arsenal",
-        "home_logo": "https://xscore808.com/team/astonvilla.png",
-        "away_logo": "https://xscore808.com/team/arsenal.png",
-        "time": "Mon 31 Aug, 19:00",
-        "link": "https://xscore808.com/match/aston-villa-vs-arsenal/78958516/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
-        "league": "La Liga",
-        "title": "Barcelona vs Rayo Vallecano",
-        "home_team": "Barcelona",
-        "away_team": "Rayo Vallecano",
-        "home_logo": "https://xscore808.com/team/Barcelona.png",
-        "away_logo": "https://xscore808.com/team/Rayo-Vallecano.png",
-        "time": "Mon 31 Aug, 19:30",
-        "link": "https://xscore808.com/match/barcelona-vs-rayo-vallecano/78958526/",
-        "is_live": true,
-        "is_featured": true
-    },
-    {
         "league": "La Liga",
         "title": "Valencia vs Barcelona",
         "home_team": "Valencia",
@@ -72,74 +48,14 @@
         "is_featured": true
     },
     {
-        "league": "Serie A",
-        "title": "Lecce vs AS Roma",
-        "home_team": "Lecce",
-        "away_team": "AS Roma",
+        "league": "DFB-Pokal",
+        "title": "HEBC Hamburg vs Dortmund",
+        "home_team": "HEBC Hamburg",
+        "away_team": "Dortmund",
         "home_logo": "",
         "away_logo": "",
-        "time": "08-31 16:30",
-        "link": "https://xscore808.com/match/lecce-vs-as-roma/78958535/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "La Liga",
-        "title": "Osasuna vs Getafe",
-        "home_team": "Osasuna",
-        "away_team": "Getafe",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-31 17:30",
-        "link": "https://xscore808.com/match/osasuna-vs-getafe/78958525/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Serie A",
-        "title": "Atalanta vs Bologna",
-        "home_team": "Atalanta",
-        "away_team": "Bologna",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-31 18:45",
-        "link": "https://xscore808.com/match/atalanta-vs-bologna/78958536/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Premier League",
-        "title": "Aston Villa vs Arsenal",
-        "home_team": "Aston Villa",
-        "away_team": "Arsenal",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-31 19:00",
-        "link": "https://xscore808.com/match/aston-villa-vs-arsenal/78958516/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Primeira Liga",
-        "title": "Benfica vs Estoril",
-        "home_team": "Benfica",
-        "away_team": "Estoril",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-31 19:15",
-        "link": "https://xscore808.com/match/benfica-vs-estoril/78958571/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "La Liga",
-        "title": "Barcelona vs Rayo Vallecano",
-        "home_team": "Barcelona",
-        "away_team": "Rayo Vallecano",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "08-31 19:30",
-        "link": "https://xscore808.com/match/barcelona-vs-rayo-vallecano/78958526/",
+        "time": "09-01 18:45",
+        "link": "https://xscore808.com/match/hebc-hamburg-vs-dortmund/78958573/",
         "is_live": true,
         "is_featured": false
     }
