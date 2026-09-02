@@ -49,18 +49,6 @@
     },
     {
         "league": "Coppa Italia",
-        "title": "Sassuolo vs Frosinone",
-        "home_team": "Sassuolo",
-        "away_team": "Frosinone",
-        "home_logo": "",
-        "away_logo": "",
-        "time": "09-02 13:00",
-        "link": "https://xscore808.com/match/sassuolo-vs-frosinone/78958662/",
-        "is_live": true,
-        "is_featured": false
-    },
-    {
-        "league": "Coppa Italia",
         "title": "Udinese vs Venezia",
         "home_team": "Udinese",
         "away_team": "Venezia",
